@@ -1,0 +1,449 @@
+{
+  "engine": "Apache Spark 4.3.0 (PySpark on OpenJDK 17)",
+  "execution_mode": "Spark Standalone Local Cluster (local[*])",
+  "status": "COMPLETED_HEALTHY",
+  "records_processed": 1200,
+  "runtime_seconds": 10.32,
+  "throughput_records_sec": 116.3,
+  "spark_transformations": [
+    "DataFrame CSV Ingestion (InferSchema: true)",
+    "Climate Zone Multi-Dimensional Aggregation (groupBy + agg)",
+    "State-Level Disaster Risk Indexing (F.when + count)",
+    "Distributed Z-Score Outlier & Flash Hazard Detection (mean + stddev)"
+  ],
+  "dataset_source": "National Meteorological Public Station Benchmark Dataset (1,200 records)",
+  "last_executed_at": "24 Nov 2026, 01:03:32 PM IST",
+  "climate_zones": [
+    {
+      "climate_zone": "Malabar Coast",
+      "observation_count": 40,
+      "avg_rainfall_mm": 10.3,
+      "max_rainfall_mm": 13.25,
+      "avg_wind_kmh": 28.97,
+      "max_wind_kmh": 35.0,
+      "avg_temperature_c": 26.72
+    },
+    {
+      "climate_zone": "Konkan Coast",
+      "observation_count": 40,
+      "avg_rainfall_mm": 9.63,
+      "max_rainfall_mm": 12.39,
+      "avg_wind_kmh": 31.04,
+      "max_wind_kmh": 37.5,
+      "avg_temperature_c": 24.72
+    },
+    {
+      "climate_zone": "Western Coastal",
+      "observation_count": 40,
+      "avg_rainfall_mm": 7.97,
+      "max_rainfall_mm": 10.26,
+      "avg_wind_kmh": 29.47,
+      "max_wind_kmh": 35.6,
+      "avg_temperature_c": 23.62
+    },
+    {
+      "climate_zone": "Northeast Hills",
+      "observation_count": 40,
+      "avg_rainfall_mm": 7.31,
+      "max_rainfall_mm": 9.4,
+      "avg_wind_kmh": 22.76,
+      "max_wind_kmh": 27.5,
+      "avg_temperature_c": 22.44
+    },
+    {
+      "climate_zone": "Island Marine",
+      "observation_count": 40,
+      "avg_rainfall_mm": 6.86,
+      "max_rainfall_mm": 8.83,
+      "avg_wind_kmh": 39.3,
+      "max_wind_kmh": 47.5,
+      "avg_temperature_c": 26.1
+    },
+    {
+      "climate_zone": "South Coast",
+      "observation_count": 40,
+      "avg_rainfall_mm": 5.98,
+      "max_rainfall_mm": 7.69,
+      "avg_wind_kmh": 25.86,
+      "max_wind_kmh": 31.2,
+      "avg_temperature_c": 27.21
+    },
+    {
+      "climate_zone": "Eastern Himalayas",
+      "observation_count": 40,
+      "avg_rainfall_mm": 5.98,
+      "max_rainfall_mm": 7.69,
+      "avg_wind_kmh": 16.54,
+      "max_wind_kmh": 20.0,
+      "avg_temperature_c": 22.37
+    },
+    {
+      "climate_zone": "Bay of Bengal Coast",
+      "observation_count": 40,
+      "avg_rainfall_mm": 5.31,
+      "max_rainfall_mm": 6.84,
+      "avg_wind_kmh": 43.44,
+      "max_wind_kmh": 52.5,
+      "avg_temperature_c": 23.42
+    },
+    {
+      "climate_zone": "Eastern Coast",
+      "observation_count": 40,
+      "avg_rainfall_mm": 4.98,
+      "max_rainfall_mm": 6.41,
+      "avg_wind_kmh": 35.17,
+      "max_wind_kmh": 42.5,
+      "avg_temperature_c": 23.29
+    },
+    {
+      "climate_zone": "Sub-Himalayan",
+      "observation_count": 40,
+      "avg_rainfall_mm": 4.87,
+      "max_rainfall_mm": 6.27,
+      "avg_wind_kmh": 18.62,
+      "max_wind_kmh": 22.5,
+      "avg_temperature_c": 22.49
+    },
+    {
+      "climate_zone": "Northeast Plain",
+      "observation_count": 40,
+      "avg_rainfall_mm": 4.87,
+      "max_rainfall_mm": 6.27,
+      "avg_wind_kmh": 18.62,
+      "max_wind_kmh": 22.5,
+      "avg_temperature_c": 22.62
+    },
+    {
+      "climate_zone": "Coromandel Coast",
+      "observation_count": 40,
+      "avg_rainfall_mm": 4.65,
+      "max_rainfall_mm": 5.98,
+      "avg_wind_kmh": 33.11,
+      "max_wind_kmh": 40.0,
+      "avg_temperature_c": 25.58
+    },
+    {
+      "climate_zone": "Brahmaputra Valley",
+      "observation_count": 40,
+      "avg_rainfall_mm": 4.65,
+      "max_rainfall_mm": 5.98,
+      "avg_wind_kmh": 19.65,
+      "max_wind_kmh": 23.8,
+      "avg_temperature_c": 22.4
+    },
+    {
+      "climate_zone": "Eastern Gangetic",
+      "observation_count": 40,
+      "avg_rainfall_mm": 3.99,
+      "max_rainfall_mm": 5.13,
+      "avg_wind_kmh": 26.9,
+      "max_wind_kmh": 32.5,
+      "avg_temperature_c": 22.83
+    },
+    {
+      "climate_zone": "Western Himalayas",
+      "observation_count": 40,
+      "avg_rainfall_mm": 3.32,
+      "max_rainfall_mm": 4.27,
+      "avg_wind_kmh": 24.83,
+      "max_wind_kmh": 30.0,
+      "avg_temperature_c": 22.58
+    },
+    {
+      "climate_zone": "Chota Nagpur",
+      "observation_count": 40,
+      "avg_rainfall_mm": 3.1,
+      "max_rainfall_mm": 3.99,
+      "avg_wind_kmh": 17.59,
+      "max_wind_kmh": 21.2,
+      "avg_temperature_c": 22.7
+    },
+    {
+      "climate_zone": "Mahanadi Basin",
+      "observation_count": 40,
+      "avg_rainfall_mm": 2.88,
+      "max_rainfall_mm": 3.7,
+      "avg_wind_kmh": 18.62,
+      "max_wind_kmh": 22.5,
+      "avg_temperature_c": 23.07
+    },
+    {
+      "climate_zone": "Central India",
+      "observation_count": 80,
+      "avg_rainfall_mm": 2.55,
+      "max_rainfall_mm": 3.42,
+      "avg_wind_kmh": 17.84,
+      "max_wind_kmh": 22.5,
+      "avg_temperature_c": 22.9
+    },
+    {
+      "climate_zone": "Middle Gangetic",
+      "observation_count": 40,
+      "avg_rainfall_mm": 2.55,
+      "max_rainfall_mm": 3.28,
+      "avg_wind_kmh": 17.59,
+      "max_wind_kmh": 21.2,
+      "avg_temperature_c": 22.44
+    },
+    {
+      "climate_zone": "Eastern Littoral",
+      "observation_count": 40,
+      "avg_rainfall_mm": 2.44,
+      "max_rainfall_mm": 3.13,
+      "avg_wind_kmh": 37.24,
+      "max_wind_kmh": 45.0,
+      "avg_temperature_c": 24.02
+    },
+    {
+      "climate_zone": "Northwest Plains",
+      "observation_count": 40,
+      "avg_rainfall_mm": 2.32,
+      "max_rainfall_mm": 2.99,
+      "avg_wind_kmh": 20.69,
+      "max_wind_kmh": 25.0,
+      "avg_temperature_c": 22.53
+    },
+    {
+      "climate_zone": "Gangetic Plain",
+      "observation_count": 40,
+      "avg_rainfall_mm": 2.21,
+      "max_rainfall_mm": 2.85,
+      "avg_wind_kmh": 15.52,
+      "max_wind_kmh": 18.8,
+      "avg_temperature_c": 22.37
+    },
+    {
+      "climate_zone": "South Interior",
+      "observation_count": 40,
+      "avg_rainfall_mm": 2.15,
+      "max_rainfall_mm": 2.76,
+      "avg_wind_kmh": 20.69,
+      "max_wind_kmh": 25.0,
+      "avg_temperature_c": 25.62
+    },
+    {
+      "climate_zone": "Western Arid",
+      "observation_count": 40,
+      "avg_rainfall_mm": 1.77,
+      "max_rainfall_mm": 2.28,
+      "avg_wind_kmh": 24.83,
+      "max_wind_kmh": 30.0,
+      "avg_temperature_c": 22.74
+    },
+    {
+      "climate_zone": "Deccan Plateau",
+      "observation_count": 80,
+      "avg_rainfall_mm": 1.73,
+      "max_rainfall_mm": 2.39,
+      "avg_wind_kmh": 19.13,
+      "max_wind_kmh": 23.8,
+      "avg_temperature_c": 23.94
+    },
+    {
+      "climate_zone": "Northern Plains",
+      "observation_count": 40,
+      "avg_rainfall_mm": 1.73,
+      "max_rainfall_mm": 2.22,
+      "avg_wind_kmh": 22.76,
+      "max_wind_kmh": 27.5,
+      "avg_temperature_c": 22.37
+    },
+    {
+      "climate_zone": "Kashmir Valley",
+      "observation_count": 40,
+      "avg_rainfall_mm": 1.59,
+      "max_rainfall_mm": 2.05,
+      "avg_wind_kmh": 15.52,
+      "max_wind_kmh": 18.8,
+      "avg_temperature_c": 23.09
+    },
+    {
+      "climate_zone": "Thar Semi-Arid",
+      "observation_count": 40,
+      "avg_rainfall_mm": 1.33,
+      "max_rainfall_mm": 1.71,
+      "avg_wind_kmh": 21.72,
+      "max_wind_kmh": 26.2,
+      "avg_temperature_c": 22.37
+    }
+  ],
+  "top_risk_states": [
+    {
+      "state": "Odisha",
+      "total_readings": 80,
+      "total_accumulated_rain_mm": 411.9,
+      "peak_wind_gust_kmh": 52.5,
+      "critical_disaster_flags": 20,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Andaman & Nicobar",
+      "total_readings": 40,
+      "total_accumulated_rain_mm": 274.6,
+      "peak_wind_gust_kmh": 47.5,
+      "critical_disaster_flags": 12,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Andhra Pradesh",
+      "total_readings": 40,
+      "total_accumulated_rain_mm": 97.4,
+      "peak_wind_gust_kmh": 45.0,
+      "critical_disaster_flags": 2,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Kerala",
+      "total_readings": 80,
+      "total_accumulated_rain_mm": 651.0,
+      "peak_wind_gust_kmh": 35.0,
+      "critical_disaster_flags": 0,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Maharashtra",
+      "total_readings": 120,
+      "total_accumulated_rain_mm": 480.0,
+      "peak_wind_gust_kmh": 35.6,
+      "critical_disaster_flags": 0,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Goa",
+      "total_readings": 40,
+      "total_accumulated_rain_mm": 385.3,
+      "peak_wind_gust_kmh": 37.5,
+      "critical_disaster_flags": 0,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Meghalaya",
+      "total_readings": 40,
+      "total_accumulated_rain_mm": 292.3,
+      "peak_wind_gust_kmh": 27.5,
+      "critical_disaster_flags": 0,
+      "high_alert_flags": 0
+    },
+    {
+      "state": "Sikkim",
+      "total_readings": 40,
+      "total_accumulated_rain_mm": 239.1,
+      "peak_wind_gust_kmh": 20.0,
+      "critical_disaster_flags": 0,
+      "high_alert_flags": 0
+    }
+  ],
+  "detected_anomalies": [
+    {
+      "record_id": "REC-KOC-012",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-12",
+      "rainfall_mm": 13.25,
+      "rain_zscore": 3.49,
+      "wind_speed_kmh": 23.9,
+      "wind_zscore": -0.02,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-011",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-11",
+      "rainfall_mm": 13.22,
+      "rain_zscore": 3.48,
+      "wind_speed_kmh": 25.1,
+      "wind_zscore": 0.12,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-013",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-13",
+      "rainfall_mm": 13.22,
+      "rain_zscore": 3.48,
+      "wind_speed_kmh": 22.8,
+      "wind_zscore": -0.14,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-010",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-10",
+      "rainfall_mm": 13.13,
+      "rain_zscore": 3.45,
+      "wind_speed_kmh": 26.4,
+      "wind_zscore": 0.28,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-014",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-14",
+      "rainfall_mm": 13.12,
+      "rain_zscore": 3.45,
+      "wind_speed_kmh": 22.0,
+      "wind_zscore": -0.24,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-009",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-09",
+      "rainfall_mm": 12.97,
+      "rain_zscore": 3.39,
+      "wind_speed_kmh": 27.8,
+      "wind_zscore": 0.44,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-015",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-15",
+      "rainfall_mm": 12.97,
+      "rain_zscore": 3.39,
+      "wind_speed_kmh": 21.4,
+      "wind_zscore": -0.31,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-016",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-16",
+      "rainfall_mm": 12.76,
+      "rain_zscore": 3.31,
+      "wind_speed_kmh": 21.1,
+      "wind_zscore": -0.34,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-008",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-08",
+      "rainfall_mm": 12.76,
+      "rain_zscore": 3.31,
+      "wind_speed_kmh": 29.2,
+      "wind_zscore": 0.6,
+      "hazard_type": "Nominal Conditions"
+    },
+    {
+      "record_id": "REC-KOC-007",
+      "city": "Kochi",
+      "state": "Kerala",
+      "timestamp": "2026-10-07",
+      "rainfall_mm": 12.5,
+      "rain_zscore": 3.21,
+      "wind_speed_kmh": 30.5,
+      "wind_zscore": 0.76,
+      "hazard_type": "Nominal Conditions"
+    }
+  ],
+  "anomaly_threshold": "Z-Score >= 2.0 (95.4th percentile outlier)"
+}

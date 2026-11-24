@@ -1,0 +1,1201 @@
+record_id,timestamp,city,state,latitude,longitude,climate_zone,rainfall_mm,wind_speed_kmh,temperature_c,relative_humidity_pct,hazard_level,hazard_type
+REC-MUM-001,2026-10-01,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,7.89,35.6,33.6,63.4,MODERATE,Active Pre-Monsoon
+REC-PUN-001,2026-10-01,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.58,22.5,33.7,53.9,LOW,Nominal Conditions
+REC-NAG-001,2026-10-01,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.41,20.6,32.8,55.5,LOW,Nominal Conditions
+REC-NEW-001,2026-10-01,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.71,27.5,28.2,56.3,LOW,Nominal Conditions
+REC-KOL-001,2026-10-01,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.95,32.5,32.2,58.0,MODERATE,Active Pre-Monsoon
+REC-CHE-001,2026-10-01,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.6,40.0,33.7,58.4,MODERATE,Active Pre-Monsoon
+REC-BEN-001,2026-10-01,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.13,25.0,33.7,54.7,LOW,Nominal Conditions
+REC-HYD-001,2026-10-01,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.84,23.8,33.9,54.2,LOW,Nominal Conditions
+REC-AHM-001,2026-10-01,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.75,30.0,32.0,54.8,LOW,Nominal Conditions
+REC-JAI-001,2026-10-01,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.32,26.2,29.5,55.2,LOW,Nominal Conditions
+REC-LUC-001,2026-10-01,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.19,18.8,29.5,56.5,LOW,Nominal Conditions
+REC-PAT-001,2026-10-01,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.52,21.2,30.4,56.6,LOW,Nominal Conditions
+REC-BHO-001,2026-10-01,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.63,22.5,31.8,56.2,LOW,Nominal Conditions
+REC-BHU-001,2026-10-01,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,4.93,42.5,33.2,59.1,MODERATE,Active Pre-Monsoon
+REC-PUR-001,2026-10-01,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.26,52.5,33.3,59.6,CRITICAL,Severe Squall
+REC-GUW-001,2026-10-01,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.6,23.8,30.0,59.9,LOW,Nominal Conditions
+REC-SHI-001,2026-10-01,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,7.23,27.5,30.4,63.7,LOW,Nominal Conditions
+REC-SHI-001,2026-10-01,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.29,30.0,26.2,59.5,LOW,Nominal Conditions
+REC-SRI-001,2026-10-01,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.58,18.8,23.9,57.8,LOW,Nominal Conditions
+REC-DEH-001,2026-10-01,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,4.82,22.5,26.9,61.5,LOW,Nominal Conditions
+REC-KOC-001,2026-10-01,Kochi,Kerala,9.9312,76.2673,Malabar Coast,10.19,35.0,32.7,67.2,MODERATE,Active Pre-Monsoon
+REC-THI-001,2026-10-01,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,5.92,31.2,32.0,61.1,LOW,Nominal Conditions
+REC-VIS-001,2026-10-01,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.41,45.0,33.8,55.1,CRITICAL,Severe Squall
+REC-RAN-001,2026-10-01,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.07,21.2,31.8,56.9,LOW,Nominal Conditions
+REC-RAI-001,2026-10-01,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.85,22.5,32.8,56.2,LOW,Nominal Conditions
+REC-CHA-001,2026-10-01,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.3,25.0,26.5,57.9,LOW,Nominal Conditions
+REC-PAN-001,2026-10-01,Panaji,Goa,15.4909,73.8278,Konkan Coast,9.53,37.5,34.0,65.7,MODERATE,Active Pre-Monsoon
+REC-GAN-001,2026-10-01,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,5.92,20.0,29.2,62.2,LOW,Nominal Conditions
+REC-AGA-001,2026-10-01,Agartala,Tripura,23.8315,91.2868,Northeast Plain,4.82,22.5,31.5,59.6,LOW,Nominal Conditions
+REC-POR-001,2026-10-01,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,6.79,47.5,33.3,61.9,CRITICAL,Severe Squall
+REC-MUM-002,2026-10-02,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,8.23,35.5,33.2,64.1,MODERATE,Active Pre-Monsoon
+REC-PUN-002,2026-10-02,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.65,22.4,33.4,54.1,LOW,Nominal Conditions
+REC-NAG-002,2026-10-02,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.51,20.5,32.4,55.8,LOW,Nominal Conditions
+REC-NEW-002,2026-10-02,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.78,27.4,27.4,56.7,LOW,Nominal Conditions
+REC-KOL-002,2026-10-02,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.11,32.4,31.7,58.5,MODERATE,Active Pre-Monsoon
+REC-CHE-002,2026-10-02,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.8,39.8,33.9,58.6,MODERATE,Active Pre-Monsoon
+REC-BEN-002,2026-10-02,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.22,24.9,33.9,54.8,LOW,Nominal Conditions
+REC-HYD-002,2026-10-02,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.92,23.7,33.7,54.4,LOW,Nominal Conditions
+REC-AHM-002,2026-10-02,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.83,29.9,31.4,55.2,LOW,Nominal Conditions
+REC-JAI-002,2026-10-02,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.37,26.1,28.7,55.6,LOW,Nominal Conditions
+REC-LUC-002,2026-10-02,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.29,18.7,28.8,56.9,LOW,Nominal Conditions
+REC-PAT-002,2026-10-02,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.63,21.2,29.7,57.1,LOW,Nominal Conditions
+REC-BHO-002,2026-10-02,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.74,22.4,31.2,56.6,LOW,Nominal Conditions
+REC-BHU-002,2026-10-02,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.14,42.3,32.8,59.6,MODERATE,Active Pre-Monsoon
+REC-PUR-002,2026-10-02,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.48,52.3,33.0,60.0,CRITICAL,Severe Squall
+REC-GUW-002,2026-10-02,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.8,23.7,29.3,60.5,LOW,Nominal Conditions
+REC-SHI-002,2026-10-02,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,7.54,27.4,29.7,64.4,LOW,Nominal Conditions
+REC-SHI-002,2026-10-02,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.43,29.9,25.4,60.0,LOW,Nominal Conditions
+REC-SRI-002,2026-10-02,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.65,18.7,23.1,58.2,LOW,Nominal Conditions
+REC-DEH-002,2026-10-02,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.03,22.4,26.1,62.1,LOW,Nominal Conditions
+REC-KOC-002,2026-10-02,Kochi,Kerala,9.9312,76.2673,Malabar Coast,10.63,34.9,33.1,67.7,MODERATE,Active Pre-Monsoon
+REC-THI-002,2026-10-02,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.17,31.1,32.5,61.3,LOW,Nominal Conditions
+REC-VIS-002,2026-10-02,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.51,44.8,33.6,55.3,MODERATE,Active Pre-Monsoon
+REC-RAN-002,2026-10-02,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.2,21.2,31.2,57.3,LOW,Nominal Conditions
+REC-RAI-002,2026-10-02,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.97,22.4,32.3,56.5,LOW,Nominal Conditions
+REC-CHA-002,2026-10-02,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.4,24.9,25.7,58.3,LOW,Nominal Conditions
+REC-PAN-002,2026-10-02,Panaji,Goa,15.4909,73.8278,Konkan Coast,9.94,37.4,34.0,66.3,MODERATE,Active Pre-Monsoon
+REC-GAN-002,2026-10-02,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.17,19.9,28.4,62.9,LOW,Nominal Conditions
+REC-AGA-002,2026-10-02,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.03,22.4,30.9,60.2,LOW,Nominal Conditions
+REC-POR-002,2026-10-02,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.08,47.3,33.6,62.2,CRITICAL,Severe Squall
+REC-MUM-003,2026-10-03,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,8.56,35.1,32.9,64.7,MODERATE,Active Pre-Monsoon
+REC-PUN-003,2026-10-03,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.71,22.1,33.1,54.3,LOW,Nominal Conditions
+REC-NAG-003,2026-10-03,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.61,20.3,31.9,56.2,LOW,Nominal Conditions
+REC-NEW-003,2026-10-03,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.85,27.1,26.6,57.1,LOW,Nominal Conditions
+REC-KOL-003,2026-10-03,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.28,32.0,31.1,59.0,MODERATE,Active Pre-Monsoon
+REC-CHE-003,2026-10-03,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.99,39.4,34.0,58.9,MODERATE,Active Pre-Monsoon
+REC-BEN-003,2026-10-03,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.31,24.6,34.0,54.9,LOW,Nominal Conditions
+REC-HYD-003,2026-10-03,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.0,23.4,33.5,54.6,LOW,Nominal Conditions
+REC-AHM-003,2026-10-03,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.9,29.5,30.8,55.5,LOW,Nominal Conditions
+REC-JAI-003,2026-10-03,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.43,25.8,28.0,55.9,LOW,Nominal Conditions
+REC-LUC-003,2026-10-03,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.38,18.5,28.0,57.4,LOW,Nominal Conditions
+REC-PAT-003,2026-10-03,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.73,20.9,29.0,57.5,LOW,Nominal Conditions
+REC-BHO-003,2026-10-03,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.85,22.1,30.6,57.0,LOW,Nominal Conditions
+REC-BHU-003,2026-10-03,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.35,41.8,32.3,60.1,MODERATE,Active Pre-Monsoon
+REC-PUR-003,2026-10-03,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.71,51.7,32.6,60.5,CRITICAL,Severe Squall
+REC-GUW-003,2026-10-03,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.99,23.4,28.6,61.0,LOW,Nominal Conditions
+REC-SHI-003,2026-10-03,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,7.84,27.1,29.0,65.2,LOW,Nominal Conditions
+REC-SHI-003,2026-10-03,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.57,29.5,24.7,60.5,LOW,Nominal Conditions
+REC-SRI-003,2026-10-03,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.71,18.5,22.4,58.6,LOW,Nominal Conditions
+REC-DEH-003,2026-10-03,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.23,22.1,25.3,62.7,LOW,Nominal Conditions
+REC-KOC-003,2026-10-03,Kochi,Kerala,9.9312,76.2673,Malabar Coast,11.05,34.4,33.4,68.2,MODERATE,Active Pre-Monsoon
+REC-THI-003,2026-10-03,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.42,30.8,32.9,61.5,LOW,Nominal Conditions
+REC-VIS-003,2026-10-03,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.61,44.3,33.4,55.6,MODERATE,Active Pre-Monsoon
+REC-RAN-003,2026-10-03,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.33,20.9,30.6,57.8,LOW,Nominal Conditions
+REC-RAI-003,2026-10-03,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.09,22.1,31.8,56.9,LOW,Nominal Conditions
+REC-CHA-003,2026-10-03,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.5,24.6,24.9,58.8,LOW,Nominal Conditions
+REC-PAN-003,2026-10-03,Panaji,Goa,15.4909,73.8278,Konkan Coast,10.34,36.9,33.9,67.0,MODERATE,Active Pre-Monsoon
+REC-GAN-003,2026-10-03,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.42,19.7,27.6,63.6,LOW,Nominal Conditions
+REC-AGA-003,2026-10-03,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.23,22.1,30.2,60.8,LOW,Nominal Conditions
+REC-POR-003,2026-10-03,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.37,46.8,33.8,62.5,CRITICAL,Severe Squall
+REC-MUM-004,2026-10-04,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,8.87,34.4,32.4,65.3,MODERATE,Active Pre-Monsoon
+REC-PUN-004,2026-10-04,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.77,21.7,32.7,54.6,LOW,Nominal Conditions
+REC-NAG-004,2026-10-04,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.71,19.9,31.3,56.5,LOW,Nominal Conditions
+REC-NEW-004,2026-10-04,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.92,26.5,25.8,57.6,LOW,Nominal Conditions
+REC-KOL-004,2026-10-04,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.44,31.4,30.4,59.5,LOW,Nominal Conditions
+REC-CHE-004,2026-10-04,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.18,38.6,34.0,59.2,MODERATE,Active Pre-Monsoon
+REC-BEN-004,2026-10-04,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.39,24.1,34.0,55.0,LOW,Nominal Conditions
+REC-HYD-004,2026-10-04,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.07,22.9,33.1,54.9,LOW,Nominal Conditions
+REC-AHM-004,2026-10-04,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.97,29.0,30.1,55.9,LOW,Nominal Conditions
+REC-JAI-004,2026-10-04,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.48,25.3,27.2,56.3,LOW,Nominal Conditions
+REC-LUC-004,2026-10-04,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.47,18.1,27.3,57.8,LOW,Nominal Conditions
+REC-PAT-004,2026-10-04,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.83,20.5,28.2,58.0,LOW,Nominal Conditions
+REC-BHO-004,2026-10-04,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.96,21.7,29.9,57.5,LOW,Nominal Conditions
+REC-BHU-004,2026-10-04,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.55,41.0,31.8,60.6,MODERATE,Active Pre-Monsoon
+REC-PUR-004,2026-10-04,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.92,50.7,32.1,61.0,CRITICAL,Severe Squall
+REC-GUW-004,2026-10-04,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.18,22.9,27.8,61.6,LOW,Nominal Conditions
+REC-SHI-004,2026-10-04,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.13,26.5,28.2,65.9,LOW,Nominal Conditions
+REC-SHI-004,2026-10-04,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.7,29.0,23.9,61.0,LOW,Nominal Conditions
+REC-SRI-004,2026-10-04,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.77,18.1,21.7,59.0,LOW,Nominal Conditions
+REC-DEH-004,2026-10-04,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.42,21.7,24.5,63.3,LOW,Nominal Conditions
+REC-KOC-004,2026-10-04,Kochi,Kerala,9.9312,76.2673,Malabar Coast,11.46,33.8,33.7,68.7,MODERATE,Active Pre-Monsoon
+REC-THI-004,2026-10-04,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.66,30.2,33.3,61.7,LOW,Nominal Conditions
+REC-VIS-004,2026-10-04,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.71,43.4,33.0,55.9,MODERATE,Active Pre-Monsoon
+REC-RAN-004,2026-10-04,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.45,20.5,29.9,58.2,LOW,Nominal Conditions
+REC-RAI-004,2026-10-04,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.2,21.7,31.3,57.3,LOW,Nominal Conditions
+REC-CHA-004,2026-10-04,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.59,24.1,24.2,59.2,LOW,Nominal Conditions
+REC-PAN-004,2026-10-04,Panaji,Goa,15.4909,73.8278,Konkan Coast,10.72,36.2,33.7,67.6,MODERATE,Active Pre-Monsoon
+REC-GAN-004,2026-10-04,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.66,19.3,26.9,64.2,LOW,Nominal Conditions
+REC-AGA-004,2026-10-04,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.42,21.7,29.5,61.3,LOW,Nominal Conditions
+REC-POR-004,2026-10-04,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.64,45.8,34.0,62.9,CRITICAL,Severe Squall
+REC-MUM-005,2026-10-05,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.17,33.5,31.9,66.0,MODERATE,Active Pre-Monsoon
+REC-PUN-005,2026-10-05,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.83,21.1,32.2,54.9,LOW,Nominal Conditions
+REC-NAG-005,2026-10-05,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.8,19.4,30.7,56.9,LOW,Nominal Conditions
+REC-NEW-005,2026-10-05,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.99,25.8,25.0,58.0,LOW,Nominal Conditions
+REC-KOL-005,2026-10-05,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.59,30.5,29.7,60.0,LOW,Nominal Conditions
+REC-CHE-005,2026-10-05,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.35,37.6,33.9,59.5,MODERATE,Active Pre-Monsoon
+REC-BEN-005,2026-10-05,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.47,23.5,33.9,55.1,LOW,Nominal Conditions
+REC-HYD-005,2026-10-05,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.14,22.3,32.7,55.1,LOW,Nominal Conditions
+REC-AHM-005,2026-10-05,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.04,28.2,29.4,56.3,LOW,Nominal Conditions
+REC-JAI-005,2026-10-05,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.53,24.7,26.4,56.7,LOW,Nominal Conditions
+REC-LUC-005,2026-10-05,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.55,17.6,26.5,58.2,LOW,Nominal Conditions
+REC-PAT-005,2026-10-05,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.93,20.0,27.4,58.4,LOW,Nominal Conditions
+REC-BHO-005,2026-10-05,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.06,21.1,29.2,57.9,LOW,Nominal Conditions
+REC-BHU-005,2026-10-05,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.73,39.9,31.2,61.1,MODERATE,Active Pre-Monsoon
+REC-PUR-005,2026-10-05,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.11,49.3,31.5,61.6,CRITICAL,Severe Squall
+REC-GUW-005,2026-10-05,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.35,22.3,27.0,62.2,LOW,Nominal Conditions
+REC-SHI-005,2026-10-05,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.41,25.8,27.5,66.6,LOW,Nominal Conditions
+REC-SHI-005,2026-10-05,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.82,28.2,23.1,61.5,LOW,Nominal Conditions
+REC-SRI-005,2026-10-05,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.83,17.6,21.1,59.3,LOW,Nominal Conditions
+REC-DEH-005,2026-10-05,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.6,21.1,23.7,63.9,LOW,Nominal Conditions
+REC-KOC-005,2026-10-05,Kochi,Kerala,9.9312,76.2673,Malabar Coast,11.85,32.9,33.9,69.2,MODERATE,Active Pre-Monsoon
+REC-THI-005,2026-10-05,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.88,29.4,33.6,61.9,LOW,Nominal Conditions
+REC-VIS-005,2026-10-05,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.8,42.3,32.6,56.2,MODERATE,Active Pre-Monsoon
+REC-RAN-005,2026-10-05,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.57,20.0,29.2,58.7,LOW,Nominal Conditions
+REC-RAI-005,2026-10-05,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.31,21.1,30.6,57.7,LOW,Nominal Conditions
+REC-CHA-005,2026-10-05,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.67,23.5,23.4,59.6,LOW,Nominal Conditions
+REC-PAN-005,2026-10-05,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.08,35.2,33.4,68.3,MODERATE,Active Pre-Monsoon
+REC-GAN-005,2026-10-05,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.88,18.8,26.1,64.9,LOW,Nominal Conditions
+REC-AGA-005,2026-10-05,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.6,21.1,28.8,61.9,LOW,Nominal Conditions
+REC-POR-005,2026-10-05,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.9,44.6,34.0,63.2,MODERATE,Active Pre-Monsoon
+REC-MUM-006,2026-10-06,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.44,32.3,31.4,66.6,MODERATE,Active Pre-Monsoon
+REC-PUN-006,2026-10-06,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.89,20.4,31.7,55.2,LOW,Nominal Conditions
+REC-NAG-006,2026-10-06,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.88,18.7,30.0,57.3,LOW,Nominal Conditions
+REC-NEW-006,2026-10-06,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.05,25.0,24.3,58.4,LOW,Nominal Conditions
+REC-KOL-006,2026-10-06,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.72,29.5,29.0,60.5,LOW,Nominal Conditions
+REC-CHE-006,2026-10-06,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.51,36.3,33.8,59.7,MODERATE,Active Pre-Monsoon
+REC-BEN-006,2026-10-06,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.54,22.7,33.8,55.3,LOW,Nominal Conditions
+REC-HYD-006,2026-10-06,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.2,21.6,32.3,55.4,LOW,Nominal Conditions
+REC-AHM-006,2026-10-06,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.1,27.2,28.7,56.7,LOW,Nominal Conditions
+REC-JAI-006,2026-10-06,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.57,23.8,25.6,57.1,LOW,Nominal Conditions
+REC-LUC-006,2026-10-06,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.62,17.0,25.7,58.7,LOW,Nominal Conditions
+REC-PAT-006,2026-10-06,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.02,19.3,26.7,58.9,LOW,Nominal Conditions
+REC-BHO-006,2026-10-06,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.15,20.4,28.5,58.3,LOW,Nominal Conditions
+REC-BHU-006,2026-10-06,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.9,38.6,30.6,61.6,MODERATE,Active Pre-Monsoon
+REC-PUR-006,2026-10-06,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.29,47.7,30.9,62.1,CRITICAL,Severe Squall
+REC-GUW-006,2026-10-06,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.51,21.6,26.2,62.8,LOW,Nominal Conditions
+REC-SHI-006,2026-10-06,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.65,25.0,26.7,67.3,LOW,Nominal Conditions
+REC-SHI-006,2026-10-06,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.93,27.2,22.4,61.9,LOW,Nominal Conditions
+REC-SRI-006,2026-10-06,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.89,17.0,20.4,59.7,LOW,Nominal Conditions
+REC-DEH-006,2026-10-06,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.77,20.4,23.0,64.5,LOW,Nominal Conditions
+REC-KOC-006,2026-10-06,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.19,31.8,34.0,69.7,LOW,Nominal Conditions
+REC-THI-006,2026-10-06,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.08,28.4,33.8,62.1,LOW,Nominal Conditions
+REC-VIS-006,2026-10-06,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.88,40.9,32.1,56.5,MODERATE,Active Pre-Monsoon
+REC-RAN-006,2026-10-06,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.67,19.3,28.4,59.1,LOW,Nominal Conditions
+REC-RAI-006,2026-10-06,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.41,20.4,30.0,58.1,LOW,Nominal Conditions
+REC-CHA-006,2026-10-06,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.75,22.7,22.7,60.0,LOW,Nominal Conditions
+REC-PAN-006,2026-10-06,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.41,34.1,33.1,68.9,MODERATE,Active Pre-Monsoon
+REC-GAN-006,2026-10-06,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.08,18.2,25.3,65.5,LOW,Nominal Conditions
+REC-AGA-006,2026-10-06,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.77,20.4,28.0,62.5,LOW,Nominal Conditions
+REC-POR-006,2026-10-06,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.13,43.1,34.0,63.6,MODERATE,Active Pre-Monsoon
+REC-MUM-007,2026-10-07,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.68,31.1,30.7,67.2,LOW,Nominal Conditions
+REC-PUN-007,2026-10-07,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.94,19.6,31.1,55.5,LOW,Nominal Conditions
+REC-NAG-007,2026-10-07,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.96,18.0,29.3,57.7,LOW,Nominal Conditions
+REC-NEW-007,2026-10-07,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.1,24.0,23.5,58.8,LOW,Nominal Conditions
+REC-KOL-007,2026-10-07,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.84,28.4,28.2,61.0,LOW,Nominal Conditions
+REC-CHE-007,2026-10-07,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.65,34.9,33.5,60.1,MODERATE,Active Pre-Monsoon
+REC-BEN-007,2026-10-07,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.61,21.8,33.6,55.5,LOW,Nominal Conditions
+REC-HYD-007,2026-10-07,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.26,20.7,31.8,55.7,LOW,Nominal Conditions
+REC-AHM-007,2026-10-07,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.15,26.2,27.9,57.1,LOW,Nominal Conditions
+REC-JAI-007,2026-10-07,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.61,22.9,24.8,57.5,LOW,Nominal Conditions
+REC-LUC-007,2026-10-07,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.69,16.4,24.9,59.1,LOW,Nominal Conditions
+REC-PAT-007,2026-10-07,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.09,18.5,25.9,59.3,LOW,Nominal Conditions
+REC-BHO-007,2026-10-07,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.23,19.6,27.7,58.8,LOW,Nominal Conditions
+REC-BHU-007,2026-10-07,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.05,37.1,29.9,62.1,MODERATE,Active Pre-Monsoon
+REC-PUR-007,2026-10-07,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.45,45.8,30.3,62.6,CRITICAL,Severe Squall
+REC-GUW-007,2026-10-07,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.65,20.7,25.4,63.3,LOW,Nominal Conditions
+REC-SHI-007,2026-10-07,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.87,24.0,25.9,67.9,LOW,Nominal Conditions
+REC-SHI-007,2026-10-07,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.03,26.2,21.7,62.4,LOW,Nominal Conditions
+REC-SRI-007,2026-10-07,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.94,16.4,19.9,59.9,LOW,Nominal Conditions
+REC-DEH-007,2026-10-07,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.92,19.6,22.2,65.0,LOW,Nominal Conditions
+REC-KOC-007,2026-10-07,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.5,30.5,34.0,70.2,LOW,Nominal Conditions
+REC-THI-007,2026-10-07,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.26,27.3,33.9,62.3,LOW,Nominal Conditions
+REC-VIS-007,2026-10-07,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.96,39.3,31.6,56.8,MODERATE,Active Pre-Monsoon
+REC-RAN-007,2026-10-07,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.76,18.5,27.6,59.6,LOW,Nominal Conditions
+REC-RAI-007,2026-10-07,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.5,19.6,29.2,58.6,LOW,Nominal Conditions
+REC-CHA-007,2026-10-07,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.82,21.8,21.9,60.5,LOW,Nominal Conditions
+REC-PAN-007,2026-10-07,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.7,32.7,32.7,69.5,MODERATE,Active Pre-Monsoon
+REC-GAN-007,2026-10-07,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.26,17.4,24.5,66.1,LOW,Nominal Conditions
+REC-AGA-007,2026-10-07,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.92,19.6,27.3,63.0,LOW,Nominal Conditions
+REC-POR-007,2026-10-07,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.34,41.4,33.9,64.0,MODERATE,Active Pre-Monsoon
+REC-MUM-008,2026-10-08,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.88,29.7,30.1,67.8,LOW,Nominal Conditions
+REC-PUN-008,2026-10-08,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.98,18.8,30.4,55.8,LOW,Nominal Conditions
+REC-NAG-008,2026-10-08,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.02,17.2,28.6,58.1,LOW,Nominal Conditions
+REC-NEW-008,2026-10-08,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.14,22.9,22.7,59.1,LOW,Nominal Conditions
+REC-KOL-008,2026-10-08,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.94,27.1,27.5,61.4,LOW,Nominal Conditions
+REC-CHE-008,2026-10-08,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.76,33.4,33.2,60.4,MODERATE,Active Pre-Monsoon
+REC-BEN-008,2026-10-08,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.66,20.8,33.3,55.7,LOW,Nominal Conditions
+REC-HYD-008,2026-10-08,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.31,19.8,31.2,56.0,LOW,Nominal Conditions
+REC-AHM-008,2026-10-08,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.2,25.0,27.1,57.5,LOW,Nominal Conditions
+REC-JAI-008,2026-10-08,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.65,21.9,24.0,57.9,LOW,Nominal Conditions
+REC-LUC-008,2026-10-08,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.75,15.6,24.1,59.5,LOW,Nominal Conditions
+REC-PAT-008,2026-10-08,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.16,17.7,25.1,59.7,LOW,Nominal Conditions
+REC-BHO-008,2026-10-08,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.29,18.8,26.9,59.2,LOW,Nominal Conditions
+REC-BHU-008,2026-10-08,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.18,35.4,29.2,62.6,MODERATE,Active Pre-Monsoon
+REC-PUR-008,2026-10-08,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.59,43.8,29.6,63.0,MODERATE,Active Pre-Monsoon
+REC-GUW-008,2026-10-08,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.76,19.8,24.6,63.8,LOW,Nominal Conditions
+REC-SHI-008,2026-10-08,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.06,22.9,25.1,68.5,LOW,Nominal Conditions
+REC-SHI-008,2026-10-08,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.12,25.0,21.0,62.8,LOW,Nominal Conditions
+REC-SRI-008,2026-10-08,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.98,15.6,19.4,60.2,LOW,Nominal Conditions
+REC-DEH-008,2026-10-08,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.04,18.8,21.5,65.5,LOW,Nominal Conditions
+REC-KOC-008,2026-10-08,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.76,29.2,33.9,70.6,LOW,Nominal Conditions
+REC-THI-008,2026-10-08,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.41,26.1,34.0,62.5,LOW,Nominal Conditions
+REC-VIS-008,2026-10-08,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.02,37.5,31.0,57.1,MODERATE,Active Pre-Monsoon
+REC-RAN-008,2026-10-08,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.84,17.7,26.9,60.0,LOW,Nominal Conditions
+REC-RAI-008,2026-10-08,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.57,18.8,28.5,59.0,LOW,Nominal Conditions
+REC-CHA-008,2026-10-08,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.88,20.8,21.3,60.8,LOW,Nominal Conditions
+REC-PAN-008,2026-10-08,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.94,31.3,32.2,70.0,LOW,Nominal Conditions
+REC-GAN-008,2026-10-08,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.41,16.7,23.7,66.6,LOW,Nominal Conditions
+REC-AGA-008,2026-10-08,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.04,18.8,26.5,63.5,LOW,Nominal Conditions
+REC-POR-008,2026-10-08,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.51,39.6,33.7,64.3,MODERATE,Active Pre-Monsoon
+REC-MUM-009,2026-10-09,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.04,28.3,29.4,68.3,LOW,Nominal Conditions
+REC-PUN-009,2026-10-09,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.01,17.9,29.8,56.1,LOW,Nominal Conditions
+REC-NAG-009,2026-10-09,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.07,16.4,27.8,58.5,LOW,Nominal Conditions
+REC-NEW-009,2026-10-09,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.18,21.8,22.0,59.5,LOW,Nominal Conditions
+REC-KOL-009,2026-10-09,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.02,25.8,26.7,61.9,LOW,Nominal Conditions
+REC-CHE-009,2026-10-09,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.86,31.8,32.9,60.6,LOW,Nominal Conditions
+REC-BEN-009,2026-10-09,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.71,19.9,32.9,55.9,LOW,Nominal Conditions
+REC-HYD-009,2026-10-09,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.34,18.9,30.5,56.3,LOW,Nominal Conditions
+REC-AHM-009,2026-10-09,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.23,23.8,26.3,57.8,LOW,Nominal Conditions
+REC-JAI-009,2026-10-09,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.67,20.8,23.3,58.2,LOW,Nominal Conditions
+REC-LUC-009,2026-10-09,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.79,14.9,23.3,59.9,LOW,Nominal Conditions
+REC-PAT-009,2026-10-09,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.21,16.9,24.3,60.1,LOW,Nominal Conditions
+REC-BHO-009,2026-10-09,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.35,17.9,26.1,59.6,LOW,Nominal Conditions
+REC-BHU-009,2026-10-09,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.28,33.8,28.5,63.0,MODERATE,Active Pre-Monsoon
+REC-PUR-009,2026-10-09,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.7,41.7,28.8,63.5,MODERATE,Active Pre-Monsoon
+REC-GUW-009,2026-10-09,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.86,18.9,23.8,64.3,LOW,Nominal Conditions
+REC-SHI-009,2026-10-09,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.21,21.8,24.3,69.1,LOW,Nominal Conditions
+REC-SHI-009,2026-10-09,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.19,23.8,20.4,63.1,LOW,Nominal Conditions
+REC-SRI-009,2026-10-09,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.01,14.9,19.0,60.4,LOW,Nominal Conditions
+REC-DEH-009,2026-10-09,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.14,17.9,20.9,65.8,LOW,Nominal Conditions
+REC-KOC-009,2026-10-09,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.97,27.8,33.8,70.9,LOW,Nominal Conditions
+REC-THI-009,2026-10-09,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.53,24.8,34.0,62.7,LOW,Nominal Conditions
+REC-VIS-009,2026-10-09,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.07,35.7,30.3,57.5,MODERATE,Active Pre-Monsoon
+REC-RAN-009,2026-10-09,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.91,16.9,26.1,60.4,LOW,Nominal Conditions
+REC-RAI-009,2026-10-09,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.63,17.9,27.7,59.4,LOW,Nominal Conditions
+REC-CHA-009,2026-10-09,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.93,19.9,20.7,61.1,LOW,Nominal Conditions
+REC-PAN-009,2026-10-09,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.14,29.8,31.7,70.5,LOW,Nominal Conditions
+REC-GAN-009,2026-10-09,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.53,15.9,22.9,67.1,LOW,Nominal Conditions
+REC-AGA-009,2026-10-09,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.14,17.9,25.7,63.9,LOW,Nominal Conditions
+REC-POR-009,2026-10-09,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.65,37.7,33.4,64.6,MODERATE,Active Pre-Monsoon
+REC-MUM-010,2026-10-10,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.16,26.9,28.6,68.8,LOW,Nominal Conditions
+REC-PUN-010,2026-10-10,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.03,17.0,29.0,56.4,LOW,Nominal Conditions
+REC-NAG-010,2026-10-10,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.11,15.6,27.0,58.9,LOW,Nominal Conditions
+REC-NEW-010,2026-10-10,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.2,20.8,21.4,59.7,LOW,Nominal Conditions
+REC-KOL-010,2026-10-10,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.08,24.5,25.9,62.3,LOW,Nominal Conditions
+REC-CHE-010,2026-10-10,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.93,30.2,32.4,60.9,LOW,Nominal Conditions
+REC-BEN-010,2026-10-10,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.74,18.9,32.5,56.1,LOW,Nominal Conditions
+REC-HYD-010,2026-10-10,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.37,17.9,29.9,56.6,LOW,Nominal Conditions
+REC-AHM-010,2026-10-10,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.26,22.6,25.5,58.2,LOW,Nominal Conditions
+REC-JAI-010,2026-10-10,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.69,19.8,22.5,58.5,LOW,Nominal Conditions
+REC-LUC-010,2026-10-10,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.82,14.1,22.6,60.2,LOW,Nominal Conditions
+REC-PAT-010,2026-10-10,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.25,16.0,23.5,60.5,LOW,Nominal Conditions
+REC-BHO-010,2026-10-10,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.39,17.0,25.3,60.0,LOW,Nominal Conditions
+REC-BHU-010,2026-10-10,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.35,32.1,27.7,63.4,MODERATE,Active Pre-Monsoon
+REC-PUR-010,2026-10-10,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.77,39.6,28.1,63.9,MODERATE,Active Pre-Monsoon
+REC-GUW-010,2026-10-10,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.93,17.9,23.1,64.7,LOW,Nominal Conditions
+REC-SHI-010,2026-10-10,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.32,20.8,23.5,69.6,LOW,Nominal Conditions
+REC-SHI-010,2026-10-10,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.23,22.6,19.9,63.4,LOW,Nominal Conditions
+REC-SRI-010,2026-10-10,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.03,14.1,18.6,60.6,LOW,Nominal Conditions
+REC-DEH-010,2026-10-10,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.21,17.0,20.3,66.2,LOW,Nominal Conditions
+REC-KOC-010,2026-10-10,Kochi,Kerala,9.9312,76.2673,Malabar Coast,13.13,26.4,33.6,71.3,LOW,Nominal Conditions
+REC-THI-010,2026-10-10,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.62,23.6,33.9,62.9,LOW,Nominal Conditions
+REC-VIS-010,2026-10-10,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.11,34.0,29.6,57.8,MODERATE,Active Pre-Monsoon
+REC-RAN-010,2026-10-10,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.95,16.0,25.3,60.8,LOW,Nominal Conditions
+REC-RAI-010,2026-10-10,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.67,17.0,26.9,59.7,LOW,Nominal Conditions
+REC-CHA-010,2026-10-10,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.96,18.9,20.1,61.4,LOW,Nominal Conditions
+REC-PAN-010,2026-10-10,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.28,28.3,31.1,71.0,LOW,Nominal Conditions
+REC-GAN-010,2026-10-10,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.62,15.1,22.2,67.6,LOW,Nominal Conditions
+REC-AGA-010,2026-10-10,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.21,17.0,24.9,64.4,LOW,Nominal Conditions
+REC-POR-010,2026-10-10,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.75,35.8,33.1,64.9,MODERATE,Active Pre-Monsoon
+REC-MUM-011,2026-10-11,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.23,25.5,27.9,69.2,LOW,Nominal Conditions
+REC-PUN-011,2026-10-11,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.05,16.1,28.3,56.8,LOW,Nominal Conditions
+REC-NAG-011,2026-10-11,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.13,14.8,26.2,59.2,LOW,Nominal Conditions
+REC-NEW-011,2026-10-11,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.22,19.7,20.7,60.0,LOW,Nominal Conditions
+REC-KOL-011,2026-10-11,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.12,23.3,25.1,62.6,LOW,Nominal Conditions
+REC-CHE-011,2026-10-11,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.97,28.7,31.9,61.2,LOW,Nominal Conditions
+REC-BEN-011,2026-10-11,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.76,17.9,32.0,56.3,LOW,Nominal Conditions
+REC-HYD-011,2026-10-11,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.39,17.0,29.1,56.9,LOW,Nominal Conditions
+REC-AHM-011,2026-10-11,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.27,21.5,24.7,58.5,LOW,Nominal Conditions
+REC-JAI-011,2026-10-11,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.71,18.8,21.8,58.8,LOW,Nominal Conditions
+REC-LUC-011,2026-10-11,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.84,13.4,21.9,60.5,LOW,Nominal Conditions
+REC-PAT-011,2026-10-11,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.27,15.2,22.8,60.8,LOW,Nominal Conditions
+REC-BHO-011,2026-10-11,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.41,16.1,24.5,60.3,LOW,Nominal Conditions
+REC-BHU-011,2026-10-11,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.4,30.5,26.9,63.8,LOW,Nominal Conditions
+REC-PUR-011,2026-10-11,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.82,37.6,27.3,64.3,MODERATE,Active Pre-Monsoon
+REC-GUW-011,2026-10-11,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.97,17.0,22.4,65.0,LOW,Nominal Conditions
+REC-SHI-011,2026-10-11,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.38,19.7,22.8,69.9,LOW,Nominal Conditions
+REC-SHI-011,2026-10-11,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.26,21.5,19.4,63.6,LOW,Nominal Conditions
+REC-SRI-011,2026-10-11,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.05,13.4,18.4,60.7,LOW,Nominal Conditions
+REC-DEH-011,2026-10-11,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.25,16.1,19.8,66.5,LOW,Nominal Conditions
+REC-KOC-011,2026-10-11,Kochi,Kerala,9.9312,76.2673,Malabar Coast,13.22,25.1,33.3,71.5,LOW,Nominal Conditions
+REC-THI-011,2026-10-11,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.68,22.4,33.7,63.0,LOW,Nominal Conditions
+REC-VIS-011,2026-10-11,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.13,32.3,28.9,58.1,MODERATE,Active Pre-Monsoon
+REC-RAN-011,2026-10-11,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.98,15.2,24.5,61.2,LOW,Nominal Conditions
+REC-RAI-011,2026-10-11,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.7,16.1,26.1,60.1,LOW,Nominal Conditions
+REC-CHA-011,2026-10-11,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.98,17.9,19.6,61.6,LOW,Nominal Conditions
+REC-PAN-011,2026-10-11,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.37,26.9,30.5,71.4,LOW,Nominal Conditions
+REC-GAN-011,2026-10-11,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.68,14.3,21.5,67.9,LOW,Nominal Conditions
+REC-AGA-011,2026-10-11,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.25,16.1,24.1,64.7,LOW,Nominal Conditions
+REC-POR-011,2026-10-11,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.81,34.0,32.6,65.2,MODERATE,Active Pre-Monsoon
+REC-MUM-012,2026-10-12,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.26,24.3,27.1,69.5,LOW,Nominal Conditions
+REC-PUN-012,2026-10-12,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.05,15.4,27.5,57.1,LOW,Nominal Conditions
+REC-NAG-012,2026-10-12,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.13,14.1,25.4,59.5,LOW,Nominal Conditions
+REC-NEW-012,2026-10-12,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.22,18.8,20.2,60.2,LOW,Nominal Conditions
+REC-KOL-012,2026-10-12,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.13,22.2,24.3,63.0,LOW,Nominal Conditions
+REC-CHE-012,2026-10-12,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.98,27.3,31.4,61.4,LOW,Nominal Conditions
+REC-BEN-012,2026-10-12,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.76,17.1,31.4,56.6,LOW,Nominal Conditions
+REC-HYD-012,2026-10-12,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.39,16.2,28.4,57.2,LOW,Nominal Conditions
+REC-AHM-012,2026-10-12,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.28,20.5,23.9,58.9,LOW,Nominal Conditions
+REC-JAI-012,2026-10-12,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.71,17.9,21.2,59.1,LOW,Nominal Conditions
+REC-LUC-012,2026-10-12,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.85,12.8,21.2,60.8,LOW,Nominal Conditions
+REC-PAT-012,2026-10-12,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.28,14.5,22.0,61.1,LOW,Nominal Conditions
+REC-BHO-012,2026-10-12,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.42,15.4,23.8,60.6,LOW,Nominal Conditions
+REC-BHU-012,2026-10-12,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.41,29.0,26.1,64.2,LOW,Nominal Conditions
+REC-PUR-012,2026-10-12,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.84,35.8,26.5,64.7,MODERATE,Active Pre-Monsoon
+REC-GUW-012,2026-10-12,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.98,16.2,21.7,65.3,LOW,Nominal Conditions
+REC-SHI-012,2026-10-12,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.4,18.8,22.1,70.3,LOW,Nominal Conditions
+REC-SHI-012,2026-10-12,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.27,20.5,19.0,63.8,LOW,Nominal Conditions
+REC-SRI-012,2026-10-12,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.05,12.8,18.2,60.8,LOW,Nominal Conditions
+REC-DEH-012,2026-10-12,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.27,15.4,19.3,66.7,LOW,Nominal Conditions
+REC-KOC-012,2026-10-12,Kochi,Kerala,9.9312,76.2673,Malabar Coast,13.25,23.9,32.9,71.7,LOW,Nominal Conditions
+REC-THI-012,2026-10-12,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.69,21.3,33.4,63.2,LOW,Nominal Conditions
+REC-VIS-012,2026-10-12,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.13,30.7,28.2,58.4,LOW,Nominal Conditions
+REC-RAN-012,2026-10-12,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.99,14.5,23.7,61.5,LOW,Nominal Conditions
+REC-RAI-012,2026-10-12,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.7,15.4,25.3,60.4,LOW,Nominal Conditions
+REC-CHA-012,2026-10-12,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.99,17.1,19.1,61.8,LOW,Nominal Conditions
+REC-PAN-012,2026-10-12,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.39,25.6,29.8,71.7,LOW,Nominal Conditions
+REC-GAN-012,2026-10-12,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.69,13.6,20.9,68.2,LOW,Nominal Conditions
+REC-AGA-012,2026-10-12,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.27,15.4,23.3,65.1,LOW,Nominal Conditions
+REC-POR-012,2026-10-12,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.83,32.4,32.2,65.4,MODERATE,Active Pre-Monsoon
+REC-MUM-013,2026-10-13,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.23,23.2,26.3,69.8,LOW,Nominal Conditions
+REC-PUN-013,2026-10-13,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.05,14.7,26.7,57.4,LOW,Nominal Conditions
+REC-NAG-013,2026-10-13,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.13,13.5,24.6,59.9,LOW,Nominal Conditions
+REC-NEW-013,2026-10-13,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.22,17.9,19.6,60.5,LOW,Nominal Conditions
+REC-KOL-013,2026-10-13,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.12,21.2,23.5,63.3,LOW,Nominal Conditions
+REC-CHE-013,2026-10-13,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.97,26.1,30.7,61.7,LOW,Nominal Conditions
+REC-BEN-013,2026-10-13,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.76,16.3,30.8,56.8,LOW,Nominal Conditions
+REC-HYD-013,2026-10-13,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.39,15.5,27.6,57.5,LOW,Nominal Conditions
+REC-AHM-013,2026-10-13,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.27,19.6,23.2,59.1,LOW,Nominal Conditions
+REC-JAI-013,2026-10-13,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.71,17.1,20.5,59.4,LOW,Nominal Conditions
+REC-LUC-013,2026-10-13,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.84,12.2,20.6,61.0,LOW,Nominal Conditions
+REC-PAT-013,2026-10-13,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.27,13.9,21.4,61.3,LOW,Nominal Conditions
+REC-BHO-013,2026-10-13,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.41,14.7,23.0,60.9,LOW,Nominal Conditions
+REC-BHU-013,2026-10-13,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.4,27.7,25.3,64.5,LOW,Nominal Conditions
+REC-PUR-013,2026-10-13,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.82,34.3,25.7,65.0,MODERATE,Active Pre-Monsoon
+REC-GUW-013,2026-10-13,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.97,15.5,21.0,65.6,LOW,Nominal Conditions
+REC-SHI-013,2026-10-13,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.38,17.9,21.4,70.5,LOW,Nominal Conditions
+REC-SHI-013,2026-10-13,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.26,19.6,18.6,64.0,LOW,Nominal Conditions
+REC-SRI-013,2026-10-13,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.05,12.2,18.0,60.9,LOW,Nominal Conditions
+REC-DEH-013,2026-10-13,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.25,14.7,18.9,66.8,LOW,Nominal Conditions
+REC-KOC-013,2026-10-13,Kochi,Kerala,9.9312,76.2673,Malabar Coast,13.22,22.8,32.5,71.8,LOW,Nominal Conditions
+REC-THI-013,2026-10-13,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.67,20.4,33.1,63.3,LOW,Nominal Conditions
+REC-VIS-013,2026-10-13,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.13,29.4,27.4,58.7,LOW,Nominal Conditions
+REC-RAN-013,2026-10-13,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.98,13.9,22.9,61.8,LOW,Nominal Conditions
+REC-RAI-013,2026-10-13,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.7,14.7,24.5,60.8,LOW,Nominal Conditions
+REC-CHA-013,2026-10-13,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.98,16.3,18.8,61.9,LOW,Nominal Conditions
+REC-PAN-013,2026-10-13,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.37,24.5,29.1,71.9,LOW,Nominal Conditions
+REC-GAN-013,2026-10-13,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.67,13.1,20.3,68.4,LOW,Nominal Conditions
+REC-AGA-013,2026-10-13,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.25,14.7,22.6,65.3,LOW,Nominal Conditions
+REC-POR-013,2026-10-13,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.81,31.0,31.6,65.6,LOW,Nominal Conditions
+REC-MUM-014,2026-10-14,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.16,22.4,25.5,70.0,LOW,Nominal Conditions
+REC-PUN-014,2026-10-14,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.03,14.1,25.9,57.7,LOW,Nominal Conditions
+REC-NAG-014,2026-10-14,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.1,13.0,23.8,60.1,LOW,Nominal Conditions
+REC-NEW-014,2026-10-14,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.2,17.3,19.2,60.6,LOW,Nominal Conditions
+REC-KOL-014,2026-10-14,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.08,20.4,22.8,63.5,LOW,Nominal Conditions
+REC-CHE-014,2026-10-14,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.93,25.1,30.1,61.9,LOW,Nominal Conditions
+REC-BEN-014,2026-10-14,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.74,15.7,30.1,57.1,LOW,Nominal Conditions
+REC-HYD-014,2026-10-14,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.37,14.9,26.8,57.8,LOW,Nominal Conditions
+REC-AHM-014,2026-10-14,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.26,18.9,22.4,59.4,LOW,Nominal Conditions
+REC-JAI-014,2026-10-14,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.69,16.5,20.0,59.5,LOW,Nominal Conditions
+REC-LUC-014,2026-10-14,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.82,11.8,20.0,61.2,LOW,Nominal Conditions
+REC-PAT-014,2026-10-14,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.25,13.4,20.7,61.6,LOW,Nominal Conditions
+REC-BHO-014,2026-10-14,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.39,14.1,22.3,61.2,LOW,Nominal Conditions
+REC-BHU-014,2026-10-14,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.35,26.7,24.5,64.7,LOW,Nominal Conditions
+REC-PUR-014,2026-10-14,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.77,33.0,24.9,65.2,MODERATE,Active Pre-Monsoon
+REC-GUW-014,2026-10-14,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.93,14.9,20.4,65.7,LOW,Nominal Conditions
+REC-SHI-014,2026-10-14,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.31,17.3,20.7,70.7,LOW,Nominal Conditions
+REC-SHI-014,2026-10-14,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.23,18.9,18.4,64.0,LOW,Nominal Conditions
+REC-SRI-014,2026-10-14,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.03,11.8,18.0,60.8,LOW,Nominal Conditions
+REC-DEH-014,2026-10-14,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.21,14.1,18.6,66.9,LOW,Nominal Conditions
+REC-KOC-014,2026-10-14,Kochi,Kerala,9.9312,76.2673,Malabar Coast,13.12,22.0,32.0,71.9,LOW,Nominal Conditions
+REC-THI-014,2026-10-14,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.62,19.6,32.7,63.4,LOW,Nominal Conditions
+REC-VIS-014,2026-10-14,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.1,28.3,26.6,59.0,LOW,Nominal Conditions
+REC-RAN-014,2026-10-14,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.95,13.4,22.2,62.0,LOW,Nominal Conditions
+REC-RAI-014,2026-10-14,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.67,14.1,23.8,61.0,LOW,Nominal Conditions
+REC-CHA-014,2026-10-14,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.96,15.7,18.5,62.0,LOW,Nominal Conditions
+REC-PAN-014,2026-10-14,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.28,23.6,28.3,72.1,LOW,Nominal Conditions
+REC-GAN-014,2026-10-14,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.62,12.6,19.8,68.5,LOW,Nominal Conditions
+REC-AGA-014,2026-10-14,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.21,14.1,21.9,65.6,LOW,Nominal Conditions
+REC-POR-014,2026-10-14,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.75,29.9,31.0,65.7,LOW,Nominal Conditions
+REC-MUM-015,2026-10-15,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,10.04,21.8,24.7,70.2,LOW,Nominal Conditions
+REC-PUN-015,2026-10-15,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,2.01,13.8,25.1,58.0,LOW,Nominal Conditions
+REC-NAG-015,2026-10-15,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.07,12.6,23.1,60.4,LOW,Nominal Conditions
+REC-NEW-015,2026-10-15,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.18,16.8,18.8,60.7,LOW,Nominal Conditions
+REC-KOL-015,2026-10-15,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,5.02,19.9,22.1,63.7,LOW,Nominal Conditions
+REC-CHE-015,2026-10-15,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.86,24.5,29.4,62.0,LOW,Nominal Conditions
+REC-BEN-015,2026-10-15,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.71,15.3,29.4,57.3,LOW,Nominal Conditions
+REC-HYD-015,2026-10-15,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.34,14.5,26.0,58.1,LOW,Nominal Conditions
+REC-AHM-015,2026-10-15,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.23,18.3,21.7,59.7,LOW,Nominal Conditions
+REC-JAI-015,2026-10-15,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.67,16.1,19.5,59.7,LOW,Nominal Conditions
+REC-LUC-015,2026-10-15,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.79,11.5,19.5,61.4,LOW,Nominal Conditions
+REC-PAT-015,2026-10-15,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.21,13.0,20.2,61.7,LOW,Nominal Conditions
+REC-BHO-015,2026-10-15,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.35,13.8,21.6,61.4,LOW,Nominal Conditions
+REC-BHU-015,2026-10-15,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.28,26.0,23.7,64.9,LOW,Nominal Conditions
+REC-PUR-015,2026-10-15,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.7,32.1,24.1,65.4,MODERATE,Active Pre-Monsoon
+REC-GUW-015,2026-10-15,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.86,14.5,19.9,65.8,LOW,Nominal Conditions
+REC-SHI-015,2026-10-15,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.21,16.8,20.2,70.7,LOW,Nominal Conditions
+REC-SHI-015,2026-10-15,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.18,18.3,18.2,64.0,LOW,Nominal Conditions
+REC-SRI-015,2026-10-15,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,2.01,11.5,18.0,60.8,LOW,Nominal Conditions
+REC-DEH-015,2026-10-15,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.14,13.8,18.3,66.9,LOW,Nominal Conditions
+REC-KOC-015,2026-10-15,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.97,21.4,31.4,71.9,LOW,Nominal Conditions
+REC-THI-015,2026-10-15,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.53,19.1,32.2,63.4,LOW,Nominal Conditions
+REC-VIS-015,2026-10-15,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.07,27.5,25.8,59.3,LOW,Nominal Conditions
+REC-RAN-015,2026-10-15,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.91,13.0,21.5,62.3,LOW,Nominal Conditions
+REC-RAI-015,2026-10-15,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.63,13.8,23.0,61.2,LOW,Nominal Conditions
+REC-CHA-015,2026-10-15,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.93,15.3,18.2,62.1,LOW,Nominal Conditions
+REC-PAN-015,2026-10-15,Panaji,Goa,15.4909,73.8278,Konkan Coast,12.14,22.9,27.5,72.2,LOW,Nominal Conditions
+REC-GAN-015,2026-10-15,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.53,12.2,19.3,68.6,LOW,Nominal Conditions
+REC-AGA-015,2026-10-15,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.14,13.8,21.2,65.7,LOW,Nominal Conditions
+REC-POR-015,2026-10-15,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.65,29.0,30.4,65.8,LOW,Nominal Conditions
+REC-MUM-016,2026-10-16,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.88,21.4,23.9,70.3,LOW,Nominal Conditions
+REC-PUN-016,2026-10-16,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.98,13.5,24.3,58.2,LOW,Nominal Conditions
+REC-NAG-016,2026-10-16,Nagpur,Maharashtra,21.1458,79.0882,Central India,3.02,12.4,22.4,60.6,LOW,Nominal Conditions
+REC-NEW-016,2026-10-16,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.14,16.6,18.5,60.8,LOW,Nominal Conditions
+REC-KOL-016,2026-10-16,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.94,19.6,21.4,63.8,LOW,Nominal Conditions
+REC-CHE-016,2026-10-16,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.76,24.1,28.6,62.2,LOW,Nominal Conditions
+REC-BEN-016,2026-10-16,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.66,15.1,28.7,57.5,LOW,Nominal Conditions
+REC-HYD-016,2026-10-16,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.31,14.3,25.2,58.4,LOW,Nominal Conditions
+REC-AHM-016,2026-10-16,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.2,18.1,21.1,59.9,LOW,Nominal Conditions
+REC-JAI-016,2026-10-16,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.65,15.8,19.1,59.8,LOW,Nominal Conditions
+REC-LUC-016,2026-10-16,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.74,11.3,19.1,61.5,LOW,Nominal Conditions
+REC-PAT-016,2026-10-16,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.16,12.8,19.6,61.9,LOW,Nominal Conditions
+REC-BHO-016,2026-10-16,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.29,13.5,20.9,61.6,LOW,Nominal Conditions
+REC-BHU-016,2026-10-16,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.18,25.6,23.0,65.1,LOW,Nominal Conditions
+REC-PUR-016,2026-10-16,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.59,31.6,23.3,65.6,LOW,Nominal Conditions
+REC-GUW-016,2026-10-16,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.76,14.3,19.4,65.9,LOW,Nominal Conditions
+REC-SHI-016,2026-10-16,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,9.06,16.6,19.7,70.7,LOW,Nominal Conditions
+REC-SHI-016,2026-10-16,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.12,18.1,18.0,64.0,LOW,Nominal Conditions
+REC-SRI-016,2026-10-16,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.98,11.3,18.2,60.7,LOW,Nominal Conditions
+REC-DEH-016,2026-10-16,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,6.04,13.5,18.1,66.8,LOW,Nominal Conditions
+REC-KOC-016,2026-10-16,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.76,21.1,30.8,71.8,LOW,Nominal Conditions
+REC-THI-016,2026-10-16,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.41,18.8,31.7,63.4,LOW,Nominal Conditions
+REC-VIS-016,2026-10-16,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,3.02,27.1,25.0,59.5,LOW,Nominal Conditions
+REC-RAN-016,2026-10-16,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.84,12.8,20.9,62.4,LOW,Nominal Conditions
+REC-RAI-016,2026-10-16,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.57,13.5,22.3,61.4,LOW,Nominal Conditions
+REC-CHA-016,2026-10-16,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.88,15.1,18.1,62.1,LOW,Nominal Conditions
+REC-PAN-016,2026-10-16,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.94,22.6,26.7,72.2,LOW,Nominal Conditions
+REC-GAN-016,2026-10-16,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.41,12.0,18.9,68.6,LOW,Nominal Conditions
+REC-AGA-016,2026-10-16,Agartala,Tripura,23.8315,91.2868,Northeast Plain,6.04,13.5,20.6,65.8,LOW,Nominal Conditions
+REC-POR-016,2026-10-16,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.51,28.6,29.7,65.9,LOW,Nominal Conditions
+REC-MUM-017,2026-10-17,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.68,21.4,23.1,70.3,LOW,Nominal Conditions
+REC-PUN-017,2026-10-17,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.94,13.5,23.6,58.5,LOW,Nominal Conditions
+REC-NAG-017,2026-10-17,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.96,12.4,21.7,60.8,LOW,Nominal Conditions
+REC-NEW-017,2026-10-17,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.1,16.5,18.3,60.8,LOW,Nominal Conditions
+REC-KOL-017,2026-10-17,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.84,19.5,20.8,63.9,LOW,Nominal Conditions
+REC-CHE-017,2026-10-17,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.65,24.0,27.8,62.4,LOW,Nominal Conditions
+REC-BEN-017,2026-10-17,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.61,15.0,27.9,57.8,LOW,Nominal Conditions
+REC-HYD-017,2026-10-17,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.26,14.3,24.4,58.6,LOW,Nominal Conditions
+REC-AHM-017,2026-10-17,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.15,18.0,20.5,60.0,LOW,Nominal Conditions
+REC-JAI-017,2026-10-17,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.61,15.8,18.7,59.9,LOW,Nominal Conditions
+REC-LUC-017,2026-10-17,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.69,11.3,18.7,61.6,LOW,Nominal Conditions
+REC-PAT-017,2026-10-17,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.09,12.8,19.2,62.0,LOW,Nominal Conditions
+REC-BHO-017,2026-10-17,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.23,13.5,20.3,61.7,LOW,Nominal Conditions
+REC-BHU-017,2026-10-17,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,6.05,25.5,22.2,65.2,LOW,Nominal Conditions
+REC-PUR-017,2026-10-17,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.45,31.5,22.6,65.6,LOW,Nominal Conditions
+REC-GUW-017,2026-10-17,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.65,14.3,19.0,65.9,LOW,Nominal Conditions
+REC-SHI-017,2026-10-17,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.87,16.5,19.2,70.6,LOW,Nominal Conditions
+REC-SHI-017,2026-10-17,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,4.03,18.0,18.0,63.8,LOW,Nominal Conditions
+REC-SRI-017,2026-10-17,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.94,11.3,18.3,60.6,LOW,Nominal Conditions
+REC-DEH-017,2026-10-17,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.91,13.5,18.0,66.7,LOW,Nominal Conditions
+REC-KOC-017,2026-10-17,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.5,21.0,30.2,71.7,LOW,Nominal Conditions
+REC-THI-017,2026-10-17,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.26,18.8,31.1,63.5,LOW,Nominal Conditions
+REC-VIS-017,2026-10-17,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.96,27.0,24.2,59.8,LOW,Nominal Conditions
+REC-RAN-017,2026-10-17,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.76,12.8,20.3,62.5,LOW,Nominal Conditions
+REC-RAI-017,2026-10-17,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.49,13.5,21.6,61.6,LOW,Nominal Conditions
+REC-CHA-017,2026-10-17,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.82,15.0,18.0,62.0,LOW,Nominal Conditions
+REC-PAN-017,2026-10-17,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.69,22.5,25.9,72.2,LOW,Nominal Conditions
+REC-GAN-017,2026-10-17,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.26,12.0,18.6,68.5,LOW,Nominal Conditions
+REC-AGA-017,2026-10-17,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.91,13.5,20.0,65.9,LOW,Nominal Conditions
+REC-POR-017,2026-10-17,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.33,28.5,29.0,65.9,LOW,Nominal Conditions
+REC-MUM-018,2026-10-18,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.44,21.6,22.4,70.2,LOW,Nominal Conditions
+REC-PUN-018,2026-10-18,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.89,13.6,22.8,58.7,LOW,Nominal Conditions
+REC-NAG-018,2026-10-18,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.88,12.5,21.0,60.9,LOW,Nominal Conditions
+REC-NEW-018,2026-10-18,New Delhi,Delhi,28.6139,77.209,Northern Plains,2.05,16.7,18.1,60.8,LOW,Nominal Conditions
+REC-KOL-018,2026-10-18,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.72,19.7,20.2,64.0,LOW,Nominal Conditions
+REC-CHE-018,2026-10-18,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.51,24.3,27.1,62.4,LOW,Nominal Conditions
+REC-BEN-018,2026-10-18,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.54,15.2,27.2,57.9,LOW,Nominal Conditions
+REC-HYD-018,2026-10-18,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.2,14.4,23.7,58.8,LOW,Nominal Conditions
+REC-AHM-018,2026-10-18,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.1,18.2,19.9,60.2,LOW,Nominal Conditions
+REC-JAI-018,2026-10-18,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.57,15.9,18.4,60.0,LOW,Nominal Conditions
+REC-LUC-018,2026-10-18,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.62,11.4,18.4,61.6,LOW,Nominal Conditions
+REC-PAT-018,2026-10-18,Patna,Bihar,25.5941,85.1376,Middle Gangetic,3.02,12.9,18.8,62.0,LOW,Nominal Conditions
+REC-BHO-018,2026-10-18,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.15,13.6,19.8,61.8,LOW,Nominal Conditions
+REC-BHU-018,2026-10-18,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.9,25.8,21.6,65.2,LOW,Nominal Conditions
+REC-PUR-018,2026-10-18,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.29,31.8,21.9,65.7,LOW,Nominal Conditions
+REC-GUW-018,2026-10-18,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.51,14.4,18.6,65.8,LOW,Nominal Conditions
+REC-SHI-018,2026-10-18,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.65,16.7,18.8,70.5,LOW,Nominal Conditions
+REC-SHI-018,2026-10-18,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.93,18.2,18.0,63.7,LOW,Nominal Conditions
+REC-SRI-018,2026-10-18,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.89,11.4,18.6,60.4,LOW,Nominal Conditions
+REC-DEH-018,2026-10-18,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.77,13.6,18.0,66.5,LOW,Nominal Conditions
+REC-KOC-018,2026-10-18,Kochi,Kerala,9.9312,76.2673,Malabar Coast,12.19,21.2,29.5,71.5,LOW,Nominal Conditions
+REC-THI-018,2026-10-18,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,7.08,19.0,30.4,63.5,LOW,Nominal Conditions
+REC-VIS-018,2026-10-18,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.88,27.3,23.4,60.0,LOW,Nominal Conditions
+REC-RAN-018,2026-10-18,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.67,12.9,19.8,62.6,LOW,Nominal Conditions
+REC-RAI-018,2026-10-18,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.41,13.6,20.9,61.8,LOW,Nominal Conditions
+REC-CHA-018,2026-10-18,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.75,15.2,18.0,61.9,LOW,Nominal Conditions
+REC-PAN-018,2026-10-18,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.41,22.7,25.1,72.1,LOW,Nominal Conditions
+REC-GAN-018,2026-10-18,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,7.08,12.1,18.3,68.3,LOW,Nominal Conditions
+REC-AGA-018,2026-10-18,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.77,13.6,19.5,65.9,LOW,Nominal Conditions
+REC-POR-018,2026-10-18,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,8.13,28.8,28.2,65.9,LOW,Nominal Conditions
+REC-MUM-019,2026-10-19,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,9.17,22.1,21.7,70.1,LOW,Nominal Conditions
+REC-PUN-019,2026-10-19,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.83,14.0,22.1,58.9,LOW,Nominal Conditions
+REC-NAG-019,2026-10-19,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.8,12.8,20.4,61.0,LOW,Nominal Conditions
+REC-NEW-019,2026-10-19,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.99,17.1,18.0,60.8,LOW,Nominal Conditions
+REC-KOL-019,2026-10-19,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.58,20.2,19.7,64.0,LOW,Nominal Conditions
+REC-CHE-019,2026-10-19,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.35,24.8,26.3,62.5,LOW,Nominal Conditions
+REC-BEN-019,2026-10-19,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.47,15.5,26.4,58.1,LOW,Nominal Conditions
+REC-HYD-019,2026-10-19,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.14,14.7,22.9,59.0,LOW,Nominal Conditions
+REC-AHM-019,2026-10-19,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,2.04,18.6,19.4,60.3,LOW,Nominal Conditions
+REC-JAI-019,2026-10-19,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.53,16.3,18.2,60.0,LOW,Nominal Conditions
+REC-LUC-019,2026-10-19,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.55,11.6,18.2,61.5,LOW,Nominal Conditions
+REC-PAT-019,2026-10-19,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.93,13.2,18.5,62.0,LOW,Nominal Conditions
+REC-BHO-019,2026-10-19,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,3.06,14.0,19.3,61.9,LOW,Nominal Conditions
+REC-BHU-019,2026-10-19,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.73,26.4,20.9,65.2,LOW,Nominal Conditions
+REC-PUR-019,2026-10-19,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,6.11,32.6,21.2,65.7,MODERATE,Active Pre-Monsoon
+REC-GUW-019,2026-10-19,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.35,14.7,18.4,65.7,LOW,Nominal Conditions
+REC-SHI-019,2026-10-19,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.4,17.1,18.5,70.2,LOW,Nominal Conditions
+REC-SHI-019,2026-10-19,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.82,18.6,18.2,63.5,LOW,Nominal Conditions
+REC-SRI-019,2026-10-19,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.83,11.6,19.0,60.1,LOW,Nominal Conditions
+REC-DEH-019,2026-10-19,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.6,14.0,18.1,66.2,LOW,Nominal Conditions
+REC-KOC-019,2026-10-19,Kochi,Kerala,9.9312,76.2673,Malabar Coast,11.84,21.7,28.7,71.3,LOW,Nominal Conditions
+REC-THI-019,2026-10-19,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.88,19.4,29.8,63.4,LOW,Nominal Conditions
+REC-VIS-019,2026-10-19,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.8,27.9,22.7,60.1,LOW,Nominal Conditions
+REC-RAN-019,2026-10-19,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.57,13.2,19.3,62.6,LOW,Nominal Conditions
+REC-RAI-019,2026-10-19,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.31,14.0,20.4,61.8,LOW,Nominal Conditions
+REC-CHA-019,2026-10-19,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.67,15.5,18.1,61.8,LOW,Nominal Conditions
+REC-PAN-019,2026-10-19,Panaji,Goa,15.4909,73.8278,Konkan Coast,11.08,23.3,24.4,71.9,LOW,Nominal Conditions
+REC-GAN-019,2026-10-19,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.88,12.4,18.1,68.1,LOW,Nominal Conditions
+REC-AGA-019,2026-10-19,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.6,14.0,19.1,65.8,LOW,Nominal Conditions
+REC-POR-019,2026-10-19,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.89,29.5,27.4,65.9,LOW,Nominal Conditions
+REC-MUM-020,2026-10-20,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,8.87,22.9,21.1,69.9,LOW,Nominal Conditions
+REC-PUN-020,2026-10-20,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.77,14.4,21.4,59.1,LOW,Nominal Conditions
+REC-NAG-020,2026-10-20,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.71,13.2,19.9,61.1,LOW,Nominal Conditions
+REC-NEW-020,2026-10-20,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.92,17.6,18.0,60.7,LOW,Nominal Conditions
+REC-KOL-020,2026-10-20,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.44,20.9,19.2,64.0,LOW,Nominal Conditions
+REC-CHE-020,2026-10-20,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,5.17,25.7,25.5,62.6,LOW,Nominal Conditions
+REC-BEN-020,2026-10-20,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.39,16.0,25.6,58.3,LOW,Nominal Conditions
+REC-HYD-020,2026-10-20,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.07,15.2,22.2,59.2,LOW,Nominal Conditions
+REC-AHM-020,2026-10-20,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.97,19.3,19.0,60.4,LOW,Nominal Conditions
+REC-JAI-020,2026-10-20,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.48,16.8,18.1,60.0,LOW,Nominal Conditions
+REC-LUC-020,2026-10-20,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.46,12.0,18.1,61.4,LOW,Nominal Conditions
+REC-PAT-020,2026-10-20,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.83,13.6,18.3,61.9,LOW,Nominal Conditions
+REC-BHO-020,2026-10-20,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.96,14.4,18.9,61.9,LOW,Nominal Conditions
+REC-BHU-020,2026-10-20,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.54,27.3,20.3,65.2,LOW,Nominal Conditions
+REC-PUR-020,2026-10-20,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.91,33.7,20.6,65.6,MODERATE,Active Pre-Monsoon
+REC-GUW-020,2026-10-20,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,5.17,15.2,18.2,65.5,LOW,Nominal Conditions
+REC-SHI-020,2026-10-20,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,8.13,17.6,18.3,69.9,LOW,Nominal Conditions
+REC-SHI-020,2026-10-20,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.7,19.3,18.4,63.2,LOW,Nominal Conditions
+REC-SRI-020,2026-10-20,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.77,12.0,19.4,59.9,LOW,Nominal Conditions
+REC-DEH-020,2026-10-20,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.42,14.4,18.2,65.8,LOW,Nominal Conditions
+REC-KOC-020,2026-10-20,Kochi,Kerala,9.9312,76.2673,Malabar Coast,11.46,22.5,28.0,71.0,LOW,Nominal Conditions
+REC-THI-020,2026-10-20,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.65,20.1,29.0,63.4,LOW,Nominal Conditions
+REC-VIS-020,2026-10-20,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.71,28.9,22.0,60.3,LOW,Nominal Conditions
+REC-RAN-020,2026-10-20,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.45,13.6,18.9,62.6,LOW,Nominal Conditions
+REC-RAI-020,2026-10-20,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.2,14.4,19.8,61.9,LOW,Nominal Conditions
+REC-CHA-020,2026-10-20,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.59,16.0,18.3,61.6,LOW,Nominal Conditions
+REC-PAN-020,2026-10-20,Panaji,Goa,15.4909,73.8278,Konkan Coast,10.72,24.1,23.6,71.6,LOW,Nominal Conditions
+REC-GAN-020,2026-10-20,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.65,12.8,18.0,67.8,LOW,Nominal Conditions
+REC-AGA-020,2026-10-20,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.42,14.4,18.7,65.6,LOW,Nominal Conditions
+REC-POR-020,2026-10-20,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.64,30.5,26.6,65.8,LOW,Nominal Conditions
+REC-MUM-021,2026-10-21,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,8.55,23.8,20.5,69.6,LOW,Nominal Conditions
+REC-PUN-021,2026-10-21,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.71,15.1,20.8,59.2,LOW,Nominal Conditions
+REC-NAG-021,2026-10-21,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.61,13.8,19.4,61.2,LOW,Nominal Conditions
+REC-NEW-021,2026-10-21,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.85,18.4,18.1,60.5,LOW,Nominal Conditions
+REC-KOL-021,2026-10-21,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.28,21.8,18.8,63.9,LOW,Nominal Conditions
+REC-CHE-021,2026-10-21,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.99,26.8,24.7,62.6,LOW,Nominal Conditions
+REC-BEN-021,2026-10-21,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.31,16.7,24.8,58.5,LOW,Nominal Conditions
+REC-HYD-021,2026-10-21,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,2.0,15.9,21.5,59.4,LOW,Nominal Conditions
+REC-AHM-021,2026-10-21,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.9,20.1,18.7,60.4,LOW,Nominal Conditions
+REC-JAI-021,2026-10-21,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.43,17.6,18.0,59.9,LOW,Nominal Conditions
+REC-LUC-021,2026-10-21,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.38,12.5,18.0,61.4,LOW,Nominal Conditions
+REC-PAT-021,2026-10-21,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.73,14.2,18.1,61.9,LOW,Nominal Conditions
+REC-BHO-021,2026-10-21,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.85,15.1,18.6,61.8,LOW,Nominal Conditions
+REC-BHU-021,2026-10-21,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.35,28.4,19.8,65.1,LOW,Nominal Conditions
+REC-PUR-021,2026-10-21,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.7,35.1,20.0,65.5,MODERATE,Active Pre-Monsoon
+REC-GUW-021,2026-10-21,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.99,15.9,18.0,65.3,LOW,Nominal Conditions
+REC-SHI-021,2026-10-21,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,7.84,18.4,18.1,69.5,LOW,Nominal Conditions
+REC-SHI-021,2026-10-21,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.56,20.1,18.6,62.9,LOW,Nominal Conditions
+REC-SRI-021,2026-10-21,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.71,12.5,19.9,59.6,LOW,Nominal Conditions
+REC-DEH-021,2026-10-21,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.23,15.1,18.4,65.5,LOW,Nominal Conditions
+REC-KOC-021,2026-10-21,Kochi,Kerala,9.9312,76.2673,Malabar Coast,11.05,23.4,27.2,70.7,LOW,Nominal Conditions
+REC-THI-021,2026-10-21,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.42,20.9,28.3,63.3,LOW,Nominal Conditions
+REC-VIS-021,2026-10-21,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.61,30.1,21.3,60.4,LOW,Nominal Conditions
+REC-RAN-021,2026-10-21,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.33,14.2,18.6,62.6,LOW,Nominal Conditions
+REC-RAI-021,2026-10-21,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,3.09,15.1,19.3,61.9,LOW,Nominal Conditions
+REC-CHA-021,2026-10-21,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.5,16.7,18.5,61.4,LOW,Nominal Conditions
+REC-PAN-021,2026-10-21,Panaji,Goa,15.4909,73.8278,Konkan Coast,10.34,25.1,22.8,71.4,LOW,Nominal Conditions
+REC-GAN-021,2026-10-21,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.42,13.4,18.0,67.4,LOW,Nominal Conditions
+REC-AGA-021,2026-10-21,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.23,15.1,18.4,65.5,LOW,Nominal Conditions
+REC-POR-021,2026-10-21,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.37,31.8,25.8,65.7,LOW,Nominal Conditions
+REC-MUM-022,2026-10-22,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,8.22,25.0,19.9,69.4,LOW,Nominal Conditions
+REC-PUN-022,2026-10-22,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.64,15.8,20.2,59.4,LOW,Nominal Conditions
+REC-NAG-022,2026-10-22,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.51,14.5,19.0,61.2,LOW,Nominal Conditions
+REC-NEW-022,2026-10-22,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.78,19.3,18.2,60.4,LOW,Nominal Conditions
+REC-KOL-022,2026-10-22,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,4.11,22.8,18.5,63.8,LOW,Nominal Conditions
+REC-CHE-022,2026-10-22,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.8,28.1,23.9,62.6,LOW,Nominal Conditions
+REC-BEN-022,2026-10-22,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.22,17.5,24.0,58.7,LOW,Nominal Conditions
+REC-HYD-022,2026-10-22,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.92,16.7,20.9,59.5,LOW,Nominal Conditions
+REC-AHM-022,2026-10-22,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.83,21.1,18.4,60.4,LOW,Nominal Conditions
+REC-JAI-022,2026-10-22,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.37,18.4,18.0,59.9,LOW,Nominal Conditions
+REC-LUC-022,2026-10-22,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.28,13.2,18.0,61.2,LOW,Nominal Conditions
+REC-PAT-022,2026-10-22,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.63,14.9,18.0,61.7,LOW,Nominal Conditions
+REC-BHO-022,2026-10-22,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.74,15.8,18.3,61.8,LOW,Nominal Conditions
+REC-BHU-022,2026-10-22,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,5.14,29.8,19.3,65.0,LOW,Nominal Conditions
+REC-PUR-022,2026-10-22,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.48,36.9,19.5,65.4,MODERATE,Active Pre-Monsoon
+REC-GUW-022,2026-10-22,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.8,16.7,18.0,65.0,LOW,Nominal Conditions
+REC-SHI-022,2026-10-22,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,7.54,19.3,18.0,69.1,LOW,Nominal Conditions
+REC-SHI-022,2026-10-22,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.43,21.1,19.0,62.5,LOW,Nominal Conditions
+REC-SRI-022,2026-10-22,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.64,13.2,20.4,59.3,LOW,Nominal Conditions
+REC-DEH-022,2026-10-22,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,5.03,15.8,18.7,65.1,LOW,Nominal Conditions
+REC-KOC-022,2026-10-22,Kochi,Kerala,9.9312,76.2673,Malabar Coast,10.62,24.6,26.4,70.4,LOW,Nominal Conditions
+REC-THI-022,2026-10-22,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,6.17,21.9,27.5,63.3,LOW,Nominal Conditions
+REC-VIS-022,2026-10-22,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.51,31.6,20.7,60.5,LOW,Nominal Conditions
+REC-RAN-022,2026-10-22,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.2,14.9,18.3,62.5,LOW,Nominal Conditions
+REC-RAI-022,2026-10-22,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.97,15.8,18.9,61.9,LOW,Nominal Conditions
+REC-CHA-022,2026-10-22,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.4,17.5,18.8,61.1,LOW,Nominal Conditions
+REC-PAN-022,2026-10-22,Panaji,Goa,15.4909,73.8278,Konkan Coast,9.94,26.3,22.1,71.1,LOW,Nominal Conditions
+REC-GAN-022,2026-10-22,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,6.17,14.0,18.1,67.0,LOW,Nominal Conditions
+REC-AGA-022,2026-10-22,Agartala,Tripura,23.8315,91.2868,Northeast Plain,5.03,15.8,18.2,65.3,LOW,Nominal Conditions
+REC-POR-022,2026-10-22,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,7.08,33.3,25.0,65.6,MODERATE,Active Pre-Monsoon
+REC-MUM-023,2026-10-23,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,7.89,26.3,19.4,69.1,LOW,Nominal Conditions
+REC-PUN-023,2026-10-23,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.58,16.6,19.7,59.5,LOW,Nominal Conditions
+REC-NAG-023,2026-10-23,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.41,15.2,18.6,61.2,LOW,Nominal Conditions
+REC-NEW-023,2026-10-23,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.71,20.3,18.5,60.2,LOW,Nominal Conditions
+REC-KOL-023,2026-10-23,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.94,24.0,18.3,63.6,LOW,Nominal Conditions
+REC-CHE-023,2026-10-23,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.6,29.5,23.1,62.7,LOW,Nominal Conditions
+REC-BEN-023,2026-10-23,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.13,18.5,23.2,58.9,LOW,Nominal Conditions
+REC-HYD-023,2026-10-23,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.84,17.5,20.3,59.6,LOW,Nominal Conditions
+REC-AHM-023,2026-10-23,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.75,22.2,18.2,60.3,LOW,Nominal Conditions
+REC-JAI-023,2026-10-23,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.31,19.4,18.1,59.7,LOW,Nominal Conditions
+REC-LUC-023,2026-10-23,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.19,13.8,18.1,61.0,LOW,Nominal Conditions
+REC-PAT-023,2026-10-23,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.52,15.7,18.0,61.6,LOW,Nominal Conditions
+REC-BHO-023,2026-10-23,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.63,16.6,18.1,61.7,LOW,Nominal Conditions
+REC-BHU-023,2026-10-23,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,4.93,31.4,18.9,64.8,LOW,Nominal Conditions
+REC-PUR-023,2026-10-23,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.26,38.8,19.1,65.2,MODERATE,Active Pre-Monsoon
+REC-GUW-023,2026-10-23,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.6,17.5,18.0,64.7,LOW,Nominal Conditions
+REC-SHI-023,2026-10-23,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,7.23,20.3,18.0,68.6,LOW,Nominal Conditions
+REC-SHI-023,2026-10-23,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.29,22.2,19.4,62.2,LOW,Nominal Conditions
+REC-SRI-023,2026-10-23,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.58,13.8,21.0,59.0,LOW,Nominal Conditions
+REC-DEH-023,2026-10-23,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,4.82,16.6,19.1,64.6,LOW,Nominal Conditions
+REC-KOC-023,2026-10-23,Kochi,Kerala,9.9312,76.2673,Malabar Coast,10.19,25.8,25.6,70.0,LOW,Nominal Conditions
+REC-THI-023,2026-10-23,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,5.92,23.1,26.7,63.2,LOW,Nominal Conditions
+REC-VIS-023,2026-10-23,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.41,33.2,20.1,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-023,2026-10-23,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,3.07,15.7,18.1,62.4,LOW,Nominal Conditions
+REC-RAI-023,2026-10-23,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.85,16.6,18.6,61.8,LOW,Nominal Conditions
+REC-CHA-023,2026-10-23,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.3,18.5,19.2,60.8,LOW,Nominal Conditions
+REC-PAN-023,2026-10-23,Panaji,Goa,15.4909,73.8278,Konkan Coast,9.53,27.7,21.4,70.7,LOW,Nominal Conditions
+REC-GAN-023,2026-10-23,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,5.92,14.8,18.2,66.6,LOW,Nominal Conditions
+REC-AGA-023,2026-10-23,Agartala,Tripura,23.8315,91.2868,Northeast Plain,4.82,16.6,18.1,65.0,LOW,Nominal Conditions
+REC-POR-023,2026-10-23,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,6.79,35.1,24.2,65.5,MODERATE,Active Pre-Monsoon
+REC-MUM-024,2026-10-24,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,7.55,27.7,19.0,68.7,LOW,Nominal Conditions
+REC-PUN-024,2026-10-24,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.51,17.5,19.2,59.6,LOW,Nominal Conditions
+REC-NAG-024,2026-10-24,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.31,16.0,18.4,61.1,LOW,Nominal Conditions
+REC-NEW-024,2026-10-24,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.64,21.4,18.8,59.9,LOW,Nominal Conditions
+REC-KOL-024,2026-10-24,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.78,25.3,18.1,63.4,LOW,Nominal Conditions
+REC-CHE-024,2026-10-24,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.4,31.1,22.4,62.6,LOW,Nominal Conditions
+REC-BEN-024,2026-10-24,Bengaluru,Karnataka,12.9716,77.5946,South Interior,2.03,19.4,22.5,59.0,LOW,Nominal Conditions
+REC-HYD-024,2026-10-24,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.76,18.5,19.7,59.8,LOW,Nominal Conditions
+REC-AHM-024,2026-10-24,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.68,23.3,18.0,60.3,LOW,Nominal Conditions
+REC-JAI-024,2026-10-24,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.26,20.4,18.3,59.6,LOW,Nominal Conditions
+REC-LUC-024,2026-10-24,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.1,14.6,18.3,60.8,LOW,Nominal Conditions
+REC-PAT-024,2026-10-24,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.41,16.5,18.1,61.4,LOW,Nominal Conditions
+REC-BHO-024,2026-10-24,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.52,17.5,18.0,61.6,LOW,Nominal Conditions
+REC-BHU-024,2026-10-24,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,4.72,33.0,18.6,64.6,MODERATE,Active Pre-Monsoon
+REC-PUR-024,2026-10-24,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,5.03,40.8,18.7,65.1,MODERATE,Active Pre-Monsoon
+REC-GUW-024,2026-10-24,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.4,18.5,18.2,64.3,LOW,Nominal Conditions
+REC-SHI-024,2026-10-24,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,6.92,21.4,18.1,68.1,LOW,Nominal Conditions
+REC-SHI-024,2026-10-24,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.15,23.3,19.9,61.8,LOW,Nominal Conditions
+REC-SRI-024,2026-10-24,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.51,14.6,21.7,58.6,LOW,Nominal Conditions
+REC-DEH-024,2026-10-24,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,4.61,17.5,19.5,64.1,LOW,Nominal Conditions
+REC-KOC-024,2026-10-24,Kochi,Kerala,9.9312,76.2673,Malabar Coast,9.75,27.2,24.8,69.7,LOW,Nominal Conditions
+REC-THI-024,2026-10-24,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,5.66,24.3,25.9,63.1,LOW,Nominal Conditions
+REC-VIS-024,2026-10-24,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.31,35.0,19.6,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-024,2026-10-24,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.94,16.5,18.0,62.2,LOW,Nominal Conditions
+REC-RAI-024,2026-10-24,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.73,17.5,18.3,61.8,LOW,Nominal Conditions
+REC-CHA-024,2026-10-24,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.2,19.4,19.7,60.4,LOW,Nominal Conditions
+REC-PAN-024,2026-10-24,Panaji,Goa,15.4909,73.8278,Konkan Coast,9.12,29.2,20.8,70.4,LOW,Nominal Conditions
+REC-GAN-024,2026-10-24,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,5.66,15.6,18.4,66.1,LOW,Nominal Conditions
+REC-AGA-024,2026-10-24,Agartala,Tripura,23.8315,91.2868,Northeast Plain,4.61,17.5,18.0,64.7,LOW,Nominal Conditions
+REC-POR-024,2026-10-24,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,6.5,36.9,23.5,65.3,MODERATE,Active Pre-Monsoon
+REC-MUM-025,2026-10-25,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,7.22,29.1,18.6,68.4,LOW,Nominal Conditions
+REC-PUN-025,2026-10-25,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.44,18.4,18.8,59.6,LOW,Nominal Conditions
+REC-NAG-025,2026-10-25,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.21,16.9,18.2,61.0,LOW,Nominal Conditions
+REC-NEW-025,2026-10-25,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.56,22.5,19.2,59.7,LOW,Nominal Conditions
+REC-KOL-025,2026-10-25,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.61,26.6,18.0,63.2,LOW,Nominal Conditions
+REC-CHE-025,2026-10-25,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.21,32.7,21.7,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-025,2026-10-25,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.95,20.4,21.8,59.2,LOW,Nominal Conditions
+REC-HYD-025,2026-10-25,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.68,19.4,19.3,59.8,LOW,Nominal Conditions
+REC-AHM-025,2026-10-25,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.6,24.5,18.0,60.2,LOW,Nominal Conditions
+REC-JAI-025,2026-10-25,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.2,21.5,18.6,59.4,LOW,Nominal Conditions
+REC-LUC-025,2026-10-25,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,2.01,15.3,18.5,60.6,LOW,Nominal Conditions
+REC-PAT-025,2026-10-25,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.31,17.4,18.2,61.2,LOW,Nominal Conditions
+REC-BHO-025,2026-10-25,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.41,18.4,18.0,61.4,LOW,Nominal Conditions
+REC-BHU-025,2026-10-25,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,4.51,34.7,18.3,64.4,MODERATE,Active Pre-Monsoon
+REC-PUR-025,2026-10-25,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.81,42.9,18.4,64.9,MODERATE,Active Pre-Monsoon
+REC-GUW-025,2026-10-25,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.21,19.4,18.4,64.0,LOW,Nominal Conditions
+REC-SHI-025,2026-10-25,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,6.62,22.5,18.2,67.7,LOW,Nominal Conditions
+REC-SHI-025,2026-10-25,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,3.01,24.5,20.4,61.4,LOW,Nominal Conditions
+REC-SRI-025,2026-10-25,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.44,15.3,22.3,58.2,LOW,Nominal Conditions
+REC-DEH-025,2026-10-25,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,4.41,18.4,20.0,63.6,LOW,Nominal Conditions
+REC-KOC-025,2026-10-25,Kochi,Kerala,9.9312,76.2673,Malabar Coast,9.33,28.6,24.0,69.4,LOW,Nominal Conditions
+REC-THI-025,2026-10-25,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,5.42,25.5,25.1,63.1,LOW,Nominal Conditions
+REC-VIS-025,2026-10-25,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.21,36.8,19.2,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-025,2026-10-25,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.81,17.4,18.0,62.0,LOW,Nominal Conditions
+REC-RAI-025,2026-10-25,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.61,18.4,18.1,61.7,LOW,Nominal Conditions
+REC-CHA-025,2026-10-25,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.11,20.4,20.2,60.1,LOW,Nominal Conditions
+REC-PAN-025,2026-10-25,Panaji,Goa,15.4909,73.8278,Konkan Coast,8.72,30.7,20.2,70.0,LOW,Nominal Conditions
+REC-GAN-025,2026-10-25,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,5.42,16.3,18.7,65.6,LOW,Nominal Conditions
+REC-AGA-025,2026-10-25,Agartala,Tripura,23.8315,91.2868,Northeast Plain,4.41,18.4,18.0,64.4,LOW,Nominal Conditions
+REC-POR-025,2026-10-25,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,6.22,38.8,22.7,65.2,MODERATE,Active Pre-Monsoon
+REC-MUM-026,2026-10-26,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,6.9,30.5,18.4,68.0,LOW,Nominal Conditions
+REC-PUN-026,2026-10-26,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.38,19.3,18.5,59.7,LOW,Nominal Conditions
+REC-NAG-026,2026-10-26,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.11,17.7,18.0,61.0,LOW,Nominal Conditions
+REC-NEW-026,2026-10-26,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.5,23.6,19.6,59.4,LOW,Nominal Conditions
+REC-KOL-026,2026-10-26,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.45,27.8,18.0,63.0,LOW,Nominal Conditions
+REC-CHE-026,2026-10-26,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,4.03,34.3,21.1,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-026,2026-10-26,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.86,21.4,21.1,59.4,LOW,Nominal Conditions
+REC-HYD-026,2026-10-26,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.61,20.3,18.9,59.9,LOW,Nominal Conditions
+REC-AHM-026,2026-10-26,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.53,25.7,18.0,60.1,LOW,Nominal Conditions
+REC-JAI-026,2026-10-26,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.15,22.5,18.9,59.2,LOW,Nominal Conditions
+REC-LUC-026,2026-10-26,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.92,16.1,18.9,60.3,LOW,Nominal Conditions
+REC-PAT-026,2026-10-26,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.21,18.2,18.5,60.9,LOW,Nominal Conditions
+REC-BHO-026,2026-10-26,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.3,19.3,18.1,61.2,LOW,Nominal Conditions
+REC-BHU-026,2026-10-26,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,4.31,36.4,18.1,64.2,MODERATE,Active Pre-Monsoon
+REC-PUR-026,2026-10-26,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.6,45.0,18.2,64.6,CRITICAL,Severe Squall
+REC-GUW-026,2026-10-26,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,4.03,20.3,18.6,63.6,LOW,Nominal Conditions
+REC-SHI-026,2026-10-26,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,6.33,23.6,18.5,67.1,LOW,Nominal Conditions
+REC-SHI-026,2026-10-26,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.88,25.7,21.0,60.9,LOW,Nominal Conditions
+REC-SRI-026,2026-10-26,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.38,16.1,23.1,57.8,LOW,Nominal Conditions
+REC-DEH-026,2026-10-26,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,4.22,19.3,20.5,63.1,LOW,Nominal Conditions
+REC-KOC-026,2026-10-26,Kochi,Kerala,9.9312,76.2673,Malabar Coast,8.92,30.0,23.2,69.1,LOW,Nominal Conditions
+REC-THI-026,2026-10-26,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,5.18,26.8,24.3,63.0,LOW,Nominal Conditions
+REC-VIS-026,2026-10-26,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.11,38.6,18.8,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-026,2026-10-26,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.68,18.2,18.1,61.8,LOW,Nominal Conditions
+REC-RAI-026,2026-10-26,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.49,19.3,18.0,61.5,LOW,Nominal Conditions
+REC-CHA-026,2026-10-26,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,2.01,21.4,20.8,59.7,LOW,Nominal Conditions
+REC-PAN-026,2026-10-26,Panaji,Goa,15.4909,73.8278,Konkan Coast,8.34,32.1,19.7,69.6,MODERATE,Active Pre-Monsoon
+REC-GAN-026,2026-10-26,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,5.18,17.1,19.1,65.1,LOW,Nominal Conditions
+REC-AGA-026,2026-10-26,Agartala,Tripura,23.8315,91.2868,Northeast Plain,4.22,19.3,18.1,64.1,LOW,Nominal Conditions
+REC-POR-026,2026-10-26,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.95,40.7,22.0,65.1,MODERATE,Active Pre-Monsoon
+REC-MUM-027,2026-10-27,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,6.61,31.8,18.2,67.6,LOW,Nominal Conditions
+REC-PUN-027,2026-10-27,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.32,20.1,18.3,59.7,LOW,Nominal Conditions
+REC-NAG-027,2026-10-27,Nagpur,Maharashtra,21.1458,79.0882,Central India,2.02,18.4,18.0,60.8,LOW,Nominal Conditions
+REC-NEW-027,2026-10-27,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.43,24.6,20.1,59.1,LOW,Nominal Conditions
+REC-KOL-027,2026-10-27,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.3,29.0,18.1,62.7,LOW,Nominal Conditions
+REC-CHE-027,2026-10-27,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.85,35.7,20.5,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-027,2026-10-27,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.78,22.3,20.5,59.5,LOW,Nominal Conditions
+REC-HYD-027,2026-10-27,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.54,21.2,18.6,59.9,LOW,Nominal Conditions
+REC-AHM-027,2026-10-27,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.47,26.8,18.1,60.0,LOW,Nominal Conditions
+REC-JAI-027,2026-10-27,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.1,23.5,19.3,58.9,LOW,Nominal Conditions
+REC-LUC-027,2026-10-27,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.84,16.8,19.3,60.0,LOW,Nominal Conditions
+REC-PAT-027,2026-10-27,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.11,19.0,18.8,60.6,LOW,Nominal Conditions
+REC-BHO-027,2026-10-27,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.2,20.1,18.2,61.0,LOW,Nominal Conditions
+REC-BHU-027,2026-10-27,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,4.13,38.0,18.0,64.0,MODERATE,Active Pre-Monsoon
+REC-PUR-027,2026-10-27,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.41,46.9,18.1,64.4,CRITICAL,Severe Squall
+REC-GUW-027,2026-10-27,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.85,21.2,19.0,63.2,LOW,Nominal Conditions
+REC-SHI-027,2026-10-27,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,6.06,24.6,18.8,66.6,LOW,Nominal Conditions
+REC-SHI-027,2026-10-27,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.75,26.8,21.7,60.4,LOW,Nominal Conditions
+REC-SRI-027,2026-10-27,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.32,16.8,23.8,57.5,LOW,Nominal Conditions
+REC-DEH-027,2026-10-27,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,4.04,20.1,21.1,62.6,LOW,Nominal Conditions
+REC-KOC-027,2026-10-27,Kochi,Kerala,9.9312,76.2673,Malabar Coast,8.53,31.3,22.5,68.8,LOW,Nominal Conditions
+REC-THI-027,2026-10-27,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.96,27.9,23.6,63.0,LOW,Nominal Conditions
+REC-VIS-027,2026-10-27,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,2.02,40.2,18.5,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-027,2026-10-27,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.57,19.0,18.2,61.6,LOW,Nominal Conditions
+REC-RAI-027,2026-10-27,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.39,20.1,18.0,61.4,LOW,Nominal Conditions
+REC-CHA-027,2026-10-27,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.93,22.3,21.4,59.3,LOW,Nominal Conditions
+REC-PAN-027,2026-10-27,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.98,33.5,19.2,69.3,MODERATE,Active Pre-Monsoon
+REC-GAN-027,2026-10-27,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.96,17.9,19.5,64.6,LOW,Nominal Conditions
+REC-AGA-027,2026-10-27,Agartala,Tripura,23.8315,91.2868,Northeast Plain,4.04,20.1,18.3,63.7,LOW,Nominal Conditions
+REC-POR-027,2026-10-27,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.69,42.5,21.3,65.0,MODERATE,Active Pre-Monsoon
+REC-MUM-028,2026-10-28,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,6.34,33.0,18.0,67.3,MODERATE,Active Pre-Monsoon
+REC-PUN-028,2026-10-28,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.27,20.9,18.1,59.7,LOW,Nominal Conditions
+REC-NAG-028,2026-10-28,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.94,19.1,18.0,60.7,LOW,Nominal Conditions
+REC-NEW-028,2026-10-28,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.37,25.5,20.7,58.8,LOW,Nominal Conditions
+REC-KOL-028,2026-10-28,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.17,30.1,18.2,62.5,LOW,Nominal Conditions
+REC-CHE-028,2026-10-28,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.7,37.1,19.9,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-028,2026-10-28,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.71,23.2,20.0,59.6,LOW,Nominal Conditions
+REC-HYD-028,2026-10-28,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.48,22.0,18.3,59.9,LOW,Nominal Conditions
+REC-AHM-028,2026-10-28,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.41,27.8,18.3,59.8,LOW,Nominal Conditions
+REC-JAI-028,2026-10-28,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.06,24.3,19.8,58.7,LOW,Nominal Conditions
+REC-LUC-028,2026-10-28,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.76,17.4,19.7,59.8,LOW,Nominal Conditions
+REC-PAT-028,2026-10-28,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.02,19.7,19.2,60.4,LOW,Nominal Conditions
+REC-BHO-028,2026-10-28,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.11,20.9,18.4,60.8,LOW,Nominal Conditions
+REC-BHU-028,2026-10-28,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.96,39.4,18.0,63.7,MODERATE,Active Pre-Monsoon
+REC-PUR-028,2026-10-28,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.23,48.7,18.0,64.1,CRITICAL,Severe Squall
+REC-GUW-028,2026-10-28,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.7,22.0,19.4,62.8,LOW,Nominal Conditions
+REC-SHI-028,2026-10-28,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.81,25.5,19.2,66.0,LOW,Nominal Conditions
+REC-SHI-028,2026-10-28,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.64,27.8,22.4,60.0,LOW,Nominal Conditions
+REC-SRI-028,2026-10-28,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.27,17.4,24.6,57.1,LOW,Nominal Conditions
+REC-DEH-028,2026-10-28,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.87,20.9,21.8,62.1,LOW,Nominal Conditions
+REC-KOC-028,2026-10-28,Kochi,Kerala,9.9312,76.2673,Malabar Coast,8.19,32.4,21.8,68.6,MODERATE,Active Pre-Monsoon
+REC-THI-028,2026-10-28,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.75,29.0,22.8,63.0,LOW,Nominal Conditions
+REC-VIS-028,2026-10-28,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.94,41.7,18.2,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-028,2026-10-28,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.46,19.7,18.4,61.3,LOW,Nominal Conditions
+REC-RAI-028,2026-10-28,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.29,20.9,18.1,61.2,LOW,Nominal Conditions
+REC-CHA-028,2026-10-28,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.85,23.2,22.1,58.9,LOW,Nominal Conditions
+REC-PAN-028,2026-10-28,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.66,34.8,18.8,69.0,MODERATE,Active Pre-Monsoon
+REC-GAN-028,2026-10-28,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.75,18.5,20.0,64.1,LOW,Nominal Conditions
+REC-AGA-028,2026-10-28,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.87,20.9,18.5,63.4,LOW,Nominal Conditions
+REC-POR-028,2026-10-28,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.46,44.0,20.7,64.9,MODERATE,Active Pre-Monsoon
+REC-MUM-029,2026-10-29,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,6.1,34.0,18.0,67.0,MODERATE,Active Pre-Monsoon
+REC-PUN-029,2026-10-29,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.22,21.5,18.0,59.6,LOW,Nominal Conditions
+REC-NAG-029,2026-10-29,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.86,19.7,18.2,60.5,LOW,Nominal Conditions
+REC-NEW-029,2026-10-29,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.32,26.3,21.3,58.5,LOW,Nominal Conditions
+REC-KOL-029,2026-10-29,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.05,31.0,18.5,62.2,LOW,Nominal Conditions
+REC-CHE-029,2026-10-29,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.56,38.2,19.4,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-029,2026-10-29,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.64,23.9,19.5,59.7,LOW,Nominal Conditions
+REC-HYD-029,2026-10-29,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.42,22.7,18.1,59.9,LOW,Nominal Conditions
+REC-AHM-029,2026-10-29,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.36,28.7,18.6,59.6,LOW,Nominal Conditions
+REC-JAI-029,2026-10-29,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.02,25.1,20.3,58.4,LOW,Nominal Conditions
+REC-LUC-029,2026-10-29,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.69,17.9,20.3,59.4,LOW,Nominal Conditions
+REC-PAT-029,2026-10-29,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.95,20.3,19.6,60.1,LOW,Nominal Conditions
+REC-BHO-029,2026-10-29,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.03,21.5,18.7,60.6,LOW,Nominal Conditions
+REC-BHU-029,2026-10-29,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.81,40.6,18.1,63.5,MODERATE,Active Pre-Monsoon
+REC-PUR-029,2026-10-29,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.07,50.1,18.0,63.9,CRITICAL,Severe Squall
+REC-GUW-029,2026-10-29,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.56,22.7,19.9,62.4,LOW,Nominal Conditions
+REC-SHI-029,2026-10-29,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.59,26.3,19.6,65.5,LOW,Nominal Conditions
+REC-SHI-029,2026-10-29,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.54,28.7,23.1,59.6,LOW,Nominal Conditions
+REC-SRI-029,2026-10-29,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.22,17.9,25.4,56.7,LOW,Nominal Conditions
+REC-DEH-029,2026-10-29,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.73,21.5,22.5,61.6,LOW,Nominal Conditions
+REC-KOC-029,2026-10-29,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.88,33.4,21.1,68.4,MODERATE,Active Pre-Monsoon
+REC-THI-029,2026-10-29,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.57,29.8,22.1,63.0,LOW,Nominal Conditions
+REC-VIS-029,2026-10-29,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.86,43.0,18.1,60.6,MODERATE,Active Pre-Monsoon
+REC-RAN-029,2026-10-29,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.37,20.3,18.7,61.1,LOW,Nominal Conditions
+REC-RAI-029,2026-10-29,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.2,21.5,18.2,61.0,LOW,Nominal Conditions
+REC-CHA-029,2026-10-29,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.78,23.9,22.8,58.5,LOW,Nominal Conditions
+REC-PAN-029,2026-10-29,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.37,35.8,18.5,68.7,MODERATE,Active Pre-Monsoon
+REC-GAN-029,2026-10-29,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.57,19.1,20.6,63.6,LOW,Nominal Conditions
+REC-AGA-029,2026-10-29,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.73,21.5,18.9,63.0,LOW,Nominal Conditions
+REC-POR-029,2026-10-29,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.25,45.4,20.1,64.8,CRITICAL,Severe Squall
+REC-MUM-030,2026-10-30,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.9,34.8,18.0,66.6,MODERATE,Active Pre-Monsoon
+REC-PUN-030,2026-10-30,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.18,22.0,18.0,59.6,LOW,Nominal Conditions
+REC-NAG-030,2026-10-30,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.8,20.2,18.4,60.3,LOW,Nominal Conditions
+REC-NEW-030,2026-10-30,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.28,26.9,22.0,58.1,LOW,Nominal Conditions
+REC-KOL-030,2026-10-30,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.95,31.8,18.8,61.9,LOW,Nominal Conditions
+REC-CHE-030,2026-10-30,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.44,39.1,19.0,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-030,2026-10-30,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.59,24.4,19.0,59.8,LOW,Nominal Conditions
+REC-HYD-030,2026-10-30,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.38,23.2,18.0,59.9,LOW,Nominal Conditions
+REC-AHM-030,2026-10-30,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.31,29.3,18.9,59.4,LOW,Nominal Conditions
+REC-JAI-030,2026-10-30,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.98,25.6,20.9,58.1,LOW,Nominal Conditions
+REC-LUC-030,2026-10-30,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.64,18.3,20.9,59.1,LOW,Nominal Conditions
+REC-PAT-030,2026-10-30,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.88,20.8,20.1,59.8,LOW,Nominal Conditions
+REC-BHO-030,2026-10-30,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.97,22.0,19.0,60.4,LOW,Nominal Conditions
+REC-BHU-030,2026-10-30,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.69,41.5,18.2,63.3,MODERATE,Active Pre-Monsoon
+REC-PUR-030,2026-10-30,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.93,51.3,18.1,63.7,CRITICAL,Severe Squall
+REC-GUW-030,2026-10-30,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.44,23.2,20.4,62.0,LOW,Nominal Conditions
+REC-SHI-030,2026-10-30,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.41,26.9,20.1,65.1,LOW,Nominal Conditions
+REC-SHI-030,2026-10-30,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.46,29.3,23.8,59.2,LOW,Nominal Conditions
+REC-SRI-030,2026-10-30,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.18,18.3,26.2,56.3,LOW,Nominal Conditions
+REC-DEH-030,2026-10-30,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.6,22.0,23.2,61.1,LOW,Nominal Conditions
+REC-KOC-030,2026-10-30,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.62,34.2,20.5,68.2,MODERATE,Active Pre-Monsoon
+REC-THI-030,2026-10-30,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.42,30.5,21.4,63.1,LOW,Nominal Conditions
+REC-VIS-030,2026-10-30,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.8,44.0,18.0,60.5,MODERATE,Active Pre-Monsoon
+REC-RAN-030,2026-10-30,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.29,20.8,19.1,60.8,LOW,Nominal Conditions
+REC-RAI-030,2026-10-30,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.13,22.0,18.4,60.8,LOW,Nominal Conditions
+REC-CHA-030,2026-10-30,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.72,24.4,23.6,58.1,LOW,Nominal Conditions
+REC-PAN-030,2026-10-30,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.13,36.6,18.3,68.4,MODERATE,Active Pre-Monsoon
+REC-GAN-030,2026-10-30,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.42,19.5,21.2,63.1,LOW,Nominal Conditions
+REC-AGA-030,2026-10-30,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.6,22.0,19.3,62.7,LOW,Nominal Conditions
+REC-POR-030,2026-10-30,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.08,46.4,19.6,64.8,CRITICAL,Severe Squall
+REC-MUM-031,2026-10-31,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.74,35.3,18.2,66.3,MODERATE,Active Pre-Monsoon
+REC-PUN-031,2026-10-31,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.15,22.3,18.1,59.5,LOW,Nominal Conditions
+REC-NAG-031,2026-10-31,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.75,20.5,18.6,60.2,LOW,Nominal Conditions
+REC-NEW-031,2026-10-31,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.24,27.3,22.7,57.8,LOW,Nominal Conditions
+REC-KOL-031,2026-10-31,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.87,32.2,19.2,61.6,MODERATE,Active Pre-Monsoon
+REC-CHE-031,2026-10-31,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.35,39.7,18.6,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-031,2026-10-31,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.55,24.8,18.7,59.8,LOW,Nominal Conditions
+REC-HYD-031,2026-10-31,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.34,23.6,18.0,59.8,LOW,Nominal Conditions
+REC-AHM-031,2026-10-31,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.27,29.8,19.4,59.1,LOW,Nominal Conditions
+REC-JAI-031,2026-10-31,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.96,26.0,21.5,57.8,LOW,Nominal Conditions
+REC-LUC-031,2026-10-31,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.59,18.6,21.5,58.8,LOW,Nominal Conditions
+REC-PAT-031,2026-10-31,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.83,21.1,20.7,59.5,LOW,Nominal Conditions
+REC-BHO-031,2026-10-31,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.91,22.3,19.5,60.1,LOW,Nominal Conditions
+REC-BHU-031,2026-10-31,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.58,42.2,18.4,63.0,MODERATE,Active Pre-Monsoon
+REC-PUR-031,2026-10-31,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.82,52.1,18.3,63.4,CRITICAL,Severe Squall
+REC-GUW-031,2026-10-31,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.35,23.6,21.0,61.6,LOW,Nominal Conditions
+REC-SHI-031,2026-10-31,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.26,27.3,20.7,64.6,LOW,Nominal Conditions
+REC-SHI-031,2026-10-31,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.39,29.8,24.6,58.7,LOW,Nominal Conditions
+REC-SRI-031,2026-10-31,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.15,18.6,27.0,55.9,LOW,Nominal Conditions
+REC-DEH-031,2026-10-31,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.51,22.3,24.0,60.7,LOW,Nominal Conditions
+REC-KOC-031,2026-10-31,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.41,34.7,20.0,68.1,MODERATE,Active Pre-Monsoon
+REC-THI-031,2026-10-31,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.3,31.0,20.8,63.1,LOW,Nominal Conditions
+REC-VIS-031,2026-10-31,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.75,44.6,18.0,60.4,MODERATE,Active Pre-Monsoon
+REC-RAN-031,2026-10-31,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.23,21.1,19.5,60.5,LOW,Nominal Conditions
+REC-RAI-031,2026-10-31,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.07,22.3,18.7,60.6,LOW,Nominal Conditions
+REC-CHA-031,2026-10-31,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.67,24.8,24.3,57.8,LOW,Nominal Conditions
+REC-PAN-031,2026-10-31,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.93,37.2,18.1,68.2,MODERATE,Active Pre-Monsoon
+REC-GAN-031,2026-10-31,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.3,19.8,21.8,62.7,LOW,Nominal Conditions
+REC-AGA-031,2026-10-31,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.51,22.3,19.7,62.4,LOW,Nominal Conditions
+REC-POR-031,2026-10-31,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.94,47.1,19.2,64.7,CRITICAL,Severe Squall
+REC-MUM-032,2026-11-01,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.62,35.6,18.3,66.1,MODERATE,Active Pre-Monsoon
+REC-PUN-032,2026-11-01,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.12,22.5,18.2,59.4,LOW,Nominal Conditions
+REC-NAG-032,2026-11-01,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.72,20.6,19.0,60.0,LOW,Nominal Conditions
+REC-NEW-032,2026-11-01,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.22,27.5,23.5,57.4,LOW,Nominal Conditions
+REC-KOL-032,2026-11-01,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.81,32.5,19.6,61.4,MODERATE,Active Pre-Monsoon
+REC-CHE-032,2026-11-01,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.28,40.0,18.4,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-032,2026-11-01,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.51,25.0,18.4,59.9,LOW,Nominal Conditions
+REC-HYD-032,2026-11-01,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.31,23.7,18.1,59.7,LOW,Nominal Conditions
+REC-AHM-032,2026-11-01,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.25,30.0,19.8,59.0,LOW,Nominal Conditions
+REC-JAI-032,2026-11-01,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.94,26.2,22.2,57.5,LOW,Nominal Conditions
+REC-LUC-032,2026-11-01,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.56,18.7,22.2,58.5,LOW,Nominal Conditions
+REC-PAT-032,2026-11-01,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.79,21.2,21.3,59.2,LOW,Nominal Conditions
+REC-BHO-032,2026-11-01,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.87,22.5,20.0,59.8,LOW,Nominal Conditions
+REC-BHU-032,2026-11-01,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.51,42.5,18.7,62.8,MODERATE,Active Pre-Monsoon
+REC-PUR-032,2026-11-01,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.75,52.5,18.5,63.2,CRITICAL,Severe Squall
+REC-GUW-032,2026-11-01,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.28,23.7,21.7,61.2,LOW,Nominal Conditions
+REC-SHI-032,2026-11-01,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.15,27.5,21.3,64.2,LOW,Nominal Conditions
+REC-SHI-032,2026-11-01,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.34,30.0,25.4,58.4,LOW,Nominal Conditions
+REC-SRI-032,2026-11-01,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.12,18.7,27.8,55.6,LOW,Nominal Conditions
+REC-DEH-032,2026-11-01,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.43,22.5,24.8,60.2,LOW,Nominal Conditions
+REC-KOC-032,2026-11-01,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.26,35.0,19.5,68.1,MODERATE,Active Pre-Monsoon
+REC-THI-032,2026-11-01,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.21,31.2,20.2,63.2,LOW,Nominal Conditions
+REC-VIS-032,2026-11-01,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.72,45.0,18.1,60.3,CRITICAL,Severe Squall
+REC-RAN-032,2026-11-01,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.18,21.2,20.0,60.3,LOW,Nominal Conditions
+REC-RAI-032,2026-11-01,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.03,22.5,19.0,60.4,LOW,Nominal Conditions
+REC-CHA-032,2026-11-01,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.64,25.0,25.1,57.4,LOW,Nominal Conditions
+REC-PAN-032,2026-11-01,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.79,37.5,18.0,68.0,MODERATE,Active Pre-Monsoon
+REC-GAN-032,2026-11-01,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.21,20.0,22.5,62.3,LOW,Nominal Conditions
+REC-AGA-032,2026-11-01,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.43,22.5,20.3,62.0,LOW,Nominal Conditions
+REC-POR-032,2026-11-01,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.84,47.5,18.8,64.7,CRITICAL,Severe Squall
+REC-MUM-033,2026-11-02,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.55,35.6,18.6,65.9,MODERATE,Active Pre-Monsoon
+REC-PUN-033,2026-11-02,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.11,22.5,18.5,59.3,LOW,Nominal Conditions
+REC-NAG-033,2026-11-02,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.69,20.6,19.4,59.8,LOW,Nominal Conditions
+REC-NEW-033,2026-11-02,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.2,27.5,24.2,57.1,LOW,Nominal Conditions
+REC-KOL-033,2026-11-02,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.77,32.5,20.1,61.1,MODERATE,Active Pre-Monsoon
+REC-CHE-033,2026-11-02,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.24,39.9,18.2,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-033,2026-11-02,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.49,25.0,18.2,60.0,LOW,Nominal Conditions
+REC-HYD-033,2026-11-02,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.29,23.7,18.2,59.7,LOW,Nominal Conditions
+REC-AHM-033,2026-11-02,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.23,30.0,20.4,58.7,LOW,Nominal Conditions
+REC-JAI-033,2026-11-02,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.92,26.2,22.9,57.2,LOW,Nominal Conditions
+REC-LUC-033,2026-11-02,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.54,18.7,22.9,58.2,LOW,Nominal Conditions
+REC-PAT-033,2026-11-02,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.77,21.2,22.0,58.9,LOW,Nominal Conditions
+REC-BHO-033,2026-11-02,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.85,22.5,20.5,59.6,LOW,Nominal Conditions
+REC-BHU-033,2026-11-02,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.47,42.4,19.0,62.6,MODERATE,Active Pre-Monsoon
+REC-PUR-033,2026-11-02,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.7,52.4,18.9,63.0,CRITICAL,Severe Squall
+REC-GUW-033,2026-11-02,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.24,23.7,22.4,60.9,LOW,Nominal Conditions
+REC-SHI-033,2026-11-02,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.08,27.5,22.0,63.8,LOW,Nominal Conditions
+REC-SHI-033,2026-11-02,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.31,30.0,26.2,58.0,LOW,Nominal Conditions
+REC-SRI-033,2026-11-02,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.11,18.7,28.6,55.2,LOW,Nominal Conditions
+REC-DEH-033,2026-11-02,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.39,22.5,25.6,59.8,LOW,Nominal Conditions
+REC-KOC-033,2026-11-02,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.16,35.0,19.1,68.1,MODERATE,Active Pre-Monsoon
+REC-THI-033,2026-11-02,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.16,31.2,19.7,63.4,LOW,Nominal Conditions
+REC-VIS-033,2026-11-02,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.69,44.9,18.3,60.2,MODERATE,Active Pre-Monsoon
+REC-RAN-033,2026-11-02,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.16,21.2,20.6,60.0,LOW,Nominal Conditions
+REC-RAI-033,2026-11-02,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.0,22.5,19.5,60.2,LOW,Nominal Conditions
+REC-CHA-033,2026-11-02,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.62,25.0,25.9,57.1,LOW,Nominal Conditions
+REC-PAN-033,2026-11-02,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.7,37.4,18.0,67.8,MODERATE,Active Pre-Monsoon
+REC-GAN-033,2026-11-02,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.16,20.0,23.3,61.9,LOW,Nominal Conditions
+REC-AGA-033,2026-11-02,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.39,22.5,20.8,61.8,LOW,Nominal Conditions
+REC-POR-033,2026-11-02,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.78,47.4,18.5,64.8,CRITICAL,Severe Squall
+REC-MUM-034,2026-11-03,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.52,35.3,19.0,65.7,MODERATE,Active Pre-Monsoon
+REC-PUN-034,2026-11-03,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.1,22.3,18.8,59.1,LOW,Nominal Conditions
+REC-NAG-034,2026-11-03,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.69,20.4,19.9,59.6,LOW,Nominal Conditions
+REC-NEW-034,2026-11-03,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.2,27.2,25.0,56.8,LOW,Nominal Conditions
+REC-KOL-034,2026-11-03,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.76,32.2,20.7,60.9,MODERATE,Active Pre-Monsoon
+REC-CHE-034,2026-11-03,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.22,39.6,18.0,62.6,MODERATE,Active Pre-Monsoon
+REC-BEN-034,2026-11-03,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.49,24.8,18.1,60.0,LOW,Nominal Conditions
+REC-HYD-034,2026-11-03,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.29,23.5,18.4,59.6,LOW,Nominal Conditions
+REC-AHM-034,2026-11-03,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.23,29.7,21.0,58.4,LOW,Nominal Conditions
+REC-JAI-034,2026-11-03,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.92,26.0,23.7,56.9,LOW,Nominal Conditions
+REC-LUC-034,2026-11-03,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.53,18.6,23.6,57.9,LOW,Nominal Conditions
+REC-PAT-034,2026-11-03,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.76,21.0,22.7,58.6,LOW,Nominal Conditions
+REC-BHO-034,2026-11-03,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.84,22.3,21.1,59.3,LOW,Nominal Conditions
+REC-BHU-034,2026-11-03,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.45,42.1,19.5,62.4,MODERATE,Active Pre-Monsoon
+REC-PUR-034,2026-11-03,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.68,52.0,19.3,62.8,CRITICAL,Severe Squall
+REC-GUW-034,2026-11-03,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.22,23.5,23.1,60.6,LOW,Nominal Conditions
+REC-SHI-034,2026-11-03,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.06,27.2,22.7,63.5,LOW,Nominal Conditions
+REC-SHI-034,2026-11-03,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.3,29.7,27.0,57.7,LOW,Nominal Conditions
+REC-SRI-034,2026-11-03,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.1,18.6,29.3,54.9,LOW,Nominal Conditions
+REC-DEH-034,2026-11-03,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.38,22.3,26.4,59.5,LOW,Nominal Conditions
+REC-KOC-034,2026-11-03,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.13,34.7,18.7,68.2,MODERATE,Active Pre-Monsoon
+REC-THI-034,2026-11-03,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.14,30.9,19.2,63.5,LOW,Nominal Conditions
+REC-VIS-034,2026-11-03,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.69,44.6,18.5,60.1,MODERATE,Active Pre-Monsoon
+REC-RAN-034,2026-11-03,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.15,21.0,21.2,59.7,LOW,Nominal Conditions
+REC-RAI-034,2026-11-03,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,1.99,22.3,19.9,60.0,LOW,Nominal Conditions
+REC-CHA-034,2026-11-03,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.61,24.8,26.7,56.7,LOW,Nominal Conditions
+REC-PAN-034,2026-11-03,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.67,37.1,18.1,67.8,MODERATE,Active Pre-Monsoon
+REC-GAN-034,2026-11-03,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.14,19.8,24.0,61.6,LOW,Nominal Conditions
+REC-AGA-034,2026-11-03,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.38,22.3,21.5,61.5,LOW,Nominal Conditions
+REC-POR-034,2026-11-03,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.76,47.0,18.2,64.9,CRITICAL,Severe Squall
+REC-MUM-035,2026-11-04,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.55,34.7,19.4,65.6,MODERATE,Active Pre-Monsoon
+REC-PUN-035,2026-11-04,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.11,21.9,19.1,59.0,LOW,Nominal Conditions
+REC-NAG-035,2026-11-04,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.7,20.1,20.4,59.4,LOW,Nominal Conditions
+REC-NEW-035,2026-11-04,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.2,26.8,25.8,56.5,LOW,Nominal Conditions
+REC-KOL-035,2026-11-04,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.77,31.7,21.3,60.6,LOW,Nominal Conditions
+REC-CHE-035,2026-11-04,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.24,39.0,18.0,62.7,MODERATE,Active Pre-Monsoon
+REC-BEN-035,2026-11-04,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.49,24.3,18.0,60.0,LOW,Nominal Conditions
+REC-HYD-035,2026-11-04,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.29,23.1,18.7,59.5,LOW,Nominal Conditions
+REC-AHM-035,2026-11-04,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.23,29.2,21.6,58.2,LOW,Nominal Conditions
+REC-JAI-035,2026-11-04,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.92,25.6,24.5,56.6,LOW,Nominal Conditions
+REC-LUC-035,2026-11-04,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.54,18.3,24.4,57.6,LOW,Nominal Conditions
+REC-PAT-035,2026-11-04,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.77,20.7,23.5,58.3,LOW,Nominal Conditions
+REC-BHO-035,2026-11-04,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.85,21.9,21.8,59.1,LOW,Nominal Conditions
+REC-BHU-035,2026-11-04,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.47,41.4,20.0,62.2,MODERATE,Active Pre-Monsoon
+REC-PUR-035,2026-11-04,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.7,51.1,19.7,62.7,CRITICAL,Severe Squall
+REC-GUW-035,2026-11-04,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.24,23.1,23.9,60.3,LOW,Nominal Conditions
+REC-SHI-035,2026-11-04,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.09,26.8,23.4,63.3,LOW,Nominal Conditions
+REC-SHI-035,2026-11-04,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.31,29.2,27.8,57.3,LOW,Nominal Conditions
+REC-SRI-035,2026-11-04,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.11,18.3,30.0,54.7,LOW,Nominal Conditions
+REC-DEH-035,2026-11-04,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.39,21.9,27.2,59.2,LOW,Nominal Conditions
+REC-KOC-035,2026-11-04,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.17,34.1,18.4,68.4,MODERATE,Active Pre-Monsoon
+REC-THI-035,2026-11-04,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.16,30.4,18.8,63.7,LOW,Nominal Conditions
+REC-VIS-035,2026-11-04,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.7,43.8,18.8,60.0,MODERATE,Active Pre-Monsoon
+REC-RAN-035,2026-11-04,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.16,20.7,21.8,59.5,LOW,Nominal Conditions
+REC-RAI-035,2026-11-04,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.0,21.9,20.5,59.8,LOW,Nominal Conditions
+REC-CHA-035,2026-11-04,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.62,24.3,27.5,56.4,LOW,Nominal Conditions
+REC-PAN-035,2026-11-04,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.7,36.5,18.2,67.8,MODERATE,Active Pre-Monsoon
+REC-GAN-035,2026-11-04,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.16,19.5,24.8,61.3,LOW,Nominal Conditions
+REC-AGA-035,2026-11-04,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.39,21.9,22.2,61.2,LOW,Nominal Conditions
+REC-POR-035,2026-11-04,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.78,46.3,18.1,64.9,CRITICAL,Severe Squall
+REC-MUM-036,2026-11-05,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.62,33.9,19.9,65.5,MODERATE,Active Pre-Monsoon
+REC-PUN-036,2026-11-05,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.12,21.4,19.6,58.8,LOW,Nominal Conditions
+REC-NAG-036,2026-11-05,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.72,19.6,21.0,59.2,LOW,Nominal Conditions
+REC-NEW-036,2026-11-05,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.22,26.1,26.6,56.2,LOW,Nominal Conditions
+REC-KOL-036,2026-11-05,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.81,30.9,22.0,60.4,LOW,Nominal Conditions
+REC-CHE-036,2026-11-05,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.28,38.0,18.0,62.7,MODERATE,Active Pre-Monsoon
+REC-BEN-036,2026-11-05,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.51,23.8,18.0,60.1,LOW,Nominal Conditions
+REC-HYD-036,2026-11-05,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.31,22.6,19.1,59.3,LOW,Nominal Conditions
+REC-AHM-036,2026-11-05,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.25,28.5,22.3,58.0,LOW,Nominal Conditions
+REC-JAI-036,2026-11-05,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.94,25.0,25.3,56.3,LOW,Nominal Conditions
+REC-LUC-036,2026-11-05,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.56,17.8,25.2,57.3,LOW,Nominal Conditions
+REC-PAT-036,2026-11-05,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.8,20.2,24.2,58.0,LOW,Nominal Conditions
+REC-BHO-036,2026-11-05,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.87,21.4,22.5,58.8,LOW,Nominal Conditions
+REC-BHU-036,2026-11-05,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.51,40.4,20.5,62.1,MODERATE,Active Pre-Monsoon
+REC-PUR-036,2026-11-05,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.75,49.9,20.3,62.5,CRITICAL,Severe Squall
+REC-GUW-036,2026-11-05,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.28,22.6,24.7,60.0,LOW,Nominal Conditions
+REC-SHI-036,2026-11-05,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.15,26.1,24.2,63.0,LOW,Nominal Conditions
+REC-SHI-036,2026-11-05,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.34,28.5,28.6,57.1,LOW,Nominal Conditions
+REC-SRI-036,2026-11-05,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.12,17.8,30.7,54.4,LOW,Nominal Conditions
+REC-DEH-036,2026-11-05,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.43,21.4,28.0,58.9,LOW,Nominal Conditions
+REC-KOC-036,2026-11-05,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.26,33.3,18.2,68.6,MODERATE,Active Pre-Monsoon
+REC-THI-036,2026-11-05,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.22,29.7,18.5,63.9,LOW,Nominal Conditions
+REC-VIS-036,2026-11-05,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.72,42.8,19.2,59.9,MODERATE,Active Pre-Monsoon
+REC-RAN-036,2026-11-05,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.19,20.2,22.5,59.3,LOW,Nominal Conditions
+REC-RAI-036,2026-11-05,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.03,21.4,21.1,59.6,LOW,Nominal Conditions
+REC-CHA-036,2026-11-05,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.64,23.8,28.3,56.1,LOW,Nominal Conditions
+REC-PAN-036,2026-11-05,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.79,35.7,18.4,67.8,MODERATE,Active Pre-Monsoon
+REC-GAN-036,2026-11-05,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.22,19.0,25.6,61.1,LOW,Nominal Conditions
+REC-AGA-036,2026-11-05,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.43,21.4,22.9,61.0,LOW,Nominal Conditions
+REC-POR-036,2026-11-05,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.84,45.2,18.0,65.1,CRITICAL,Severe Squall
+REC-MUM-037,2026-11-06,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.74,32.8,20.4,65.5,MODERATE,Active Pre-Monsoon
+REC-PUN-037,2026-11-06,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.15,20.7,20.1,58.7,LOW,Nominal Conditions
+REC-NAG-037,2026-11-06,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.75,19.0,21.7,58.9,LOW,Nominal Conditions
+REC-NEW-037,2026-11-06,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.24,25.3,27.4,55.9,LOW,Nominal Conditions
+REC-KOL-037,2026-11-06,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.87,30.0,22.7,60.2,LOW,Nominal Conditions
+REC-CHE-037,2026-11-06,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.35,36.9,18.2,62.7,MODERATE,Active Pre-Monsoon
+REC-BEN-037,2026-11-06,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.55,23.0,18.1,60.1,LOW,Nominal Conditions
+REC-HYD-037,2026-11-06,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.34,21.9,19.5,59.2,LOW,Nominal Conditions
+REC-AHM-037,2026-11-06,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.28,27.7,23.0,57.7,LOW,Nominal Conditions
+REC-JAI-037,2026-11-06,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.96,24.2,26.1,56.0,LOW,Nominal Conditions
+REC-LUC-037,2026-11-06,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.59,17.3,26.0,57.0,LOW,Nominal Conditions
+REC-PAT-037,2026-11-06,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.83,19.6,25.0,57.7,LOW,Nominal Conditions
+REC-BHO-037,2026-11-06,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.91,20.7,23.2,58.6,LOW,Nominal Conditions
+REC-BHU-037,2026-11-06,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.59,39.2,21.1,61.9,MODERATE,Active Pre-Monsoon
+REC-PUR-037,2026-11-06,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.83,48.4,20.8,62.4,CRITICAL,Severe Squall
+REC-GUW-037,2026-11-06,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.35,21.9,25.5,59.8,LOW,Nominal Conditions
+REC-SHI-037,2026-11-06,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.26,25.3,25.0,62.9,LOW,Nominal Conditions
+REC-SHI-037,2026-11-06,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.39,27.7,29.3,56.9,LOW,Nominal Conditions
+REC-SRI-037,2026-11-06,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.15,17.3,31.3,54.2,LOW,Nominal Conditions
+REC-DEH-037,2026-11-06,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.51,20.7,28.7,58.8,LOW,Nominal Conditions
+REC-KOC-037,2026-11-06,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.41,32.3,18.1,68.9,MODERATE,Active Pre-Monsoon
+REC-THI-037,2026-11-06,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.3,28.8,18.3,64.1,LOW,Nominal Conditions
+REC-VIS-037,2026-11-06,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.75,41.5,19.7,59.7,MODERATE,Active Pre-Monsoon
+REC-RAN-037,2026-11-06,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.23,19.6,23.3,59.0,LOW,Nominal Conditions
+REC-RAI-037,2026-11-06,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.07,20.7,21.8,59.4,LOW,Nominal Conditions
+REC-CHA-037,2026-11-06,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.67,23.0,29.0,55.9,LOW,Nominal Conditions
+REC-PAN-037,2026-11-06,Panaji,Goa,15.4909,73.8278,Konkan Coast,6.93,34.6,18.8,67.9,MODERATE,Active Pre-Monsoon
+REC-GAN-037,2026-11-06,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.3,18.4,26.4,60.9,LOW,Nominal Conditions
+REC-AGA-037,2026-11-06,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.51,20.7,23.6,60.8,LOW,Nominal Conditions
+REC-POR-037,2026-11-06,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,4.94,43.8,18.0,65.2,MODERATE,Active Pre-Monsoon
+REC-MUM-038,2026-11-07,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,5.9,31.6,21.0,65.4,LOW,Nominal Conditions
+REC-PUN-038,2026-11-07,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.18,20.0,20.7,58.5,LOW,Nominal Conditions
+REC-NAG-038,2026-11-07,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.8,18.3,22.4,58.7,LOW,Nominal Conditions
+REC-NEW-038,2026-11-07,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.28,24.4,28.2,55.6,LOW,Nominal Conditions
+REC-KOL-038,2026-11-07,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,2.95,28.9,23.4,60.1,LOW,Nominal Conditions
+REC-CHE-038,2026-11-07,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.44,35.5,18.3,62.8,MODERATE,Active Pre-Monsoon
+REC-BEN-038,2026-11-07,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.59,22.2,18.3,60.1,LOW,Nominal Conditions
+REC-HYD-038,2026-11-07,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.38,21.1,20.0,59.1,LOW,Nominal Conditions
+REC-AHM-038,2026-11-07,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.31,26.6,23.8,57.4,LOW,Nominal Conditions
+REC-JAI-038,2026-11-07,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,0.98,23.3,26.9,55.7,LOW,Nominal Conditions
+REC-LUC-038,2026-11-07,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.64,16.6,26.8,56.7,LOW,Nominal Conditions
+REC-PAT-038,2026-11-07,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.89,18.9,25.8,57.5,LOW,Nominal Conditions
+REC-BHO-038,2026-11-07,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,1.97,20.0,24.0,58.4,LOW,Nominal Conditions
+REC-BHU-038,2026-11-07,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.69,37.7,21.8,61.8,MODERATE,Active Pre-Monsoon
+REC-PUR-038,2026-11-07,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,3.93,46.6,21.5,62.3,CRITICAL,Severe Squall
+REC-GUW-038,2026-11-07,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.44,21.1,26.3,59.6,LOW,Nominal Conditions
+REC-SHI-038,2026-11-07,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.41,24.4,25.8,62.8,LOW,Nominal Conditions
+REC-SHI-038,2026-11-07,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.46,26.6,30.0,56.7,LOW,Nominal Conditions
+REC-SRI-038,2026-11-07,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.18,16.6,31.9,54.0,LOW,Nominal Conditions
+REC-DEH-038,2026-11-07,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.61,20.0,29.5,58.6,LOW,Nominal Conditions
+REC-KOC-038,2026-11-07,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.62,31.1,18.0,69.2,LOW,Nominal Conditions
+REC-THI-038,2026-11-07,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.43,27.7,18.1,64.4,LOW,Nominal Conditions
+REC-VIS-038,2026-11-07,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.8,39.9,20.2,59.6,MODERATE,Active Pre-Monsoon
+REC-RAN-038,2026-11-07,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.3,18.9,24.0,58.9,LOW,Nominal Conditions
+REC-RAI-038,2026-11-07,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.13,20.0,22.5,59.2,LOW,Nominal Conditions
+REC-CHA-038,2026-11-07,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.72,22.2,29.8,55.7,LOW,Nominal Conditions
+REC-PAN-038,2026-11-07,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.13,33.3,19.1,68.1,MODERATE,Active Pre-Monsoon
+REC-GAN-038,2026-11-07,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.43,17.8,27.2,60.8,LOW,Nominal Conditions
+REC-AGA-038,2026-11-07,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.61,20.0,24.4,60.7,LOW,Nominal Conditions
+REC-POR-038,2026-11-07,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.08,42.2,18.1,65.4,MODERATE,Active Pre-Monsoon
+REC-MUM-039,2026-11-08,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,6.1,30.3,21.6,65.5,LOW,Nominal Conditions
+REC-PUN-039,2026-11-08,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.22,19.1,21.3,58.3,LOW,Nominal Conditions
+REC-NAG-039,2026-11-08,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.87,17.5,23.1,58.6,LOW,Nominal Conditions
+REC-NEW-039,2026-11-08,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.32,23.4,29.0,55.4,LOW,Nominal Conditions
+REC-KOL-039,2026-11-08,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.05,27.6,24.2,59.9,LOW,Nominal Conditions
+REC-CHE-039,2026-11-08,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.56,34.0,18.6,62.9,MODERATE,Active Pre-Monsoon
+REC-BEN-039,2026-11-08,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.64,21.3,18.6,60.0,LOW,Nominal Conditions
+REC-HYD-039,2026-11-08,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.42,20.2,20.6,58.9,LOW,Nominal Conditions
+REC-AHM-039,2026-11-08,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.36,25.5,24.6,57.2,LOW,Nominal Conditions
+REC-JAI-039,2026-11-08,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.02,22.3,27.7,55.5,LOW,Nominal Conditions
+REC-LUC-039,2026-11-08,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.7,15.9,27.6,56.5,LOW,Nominal Conditions
+REC-PAT-039,2026-11-08,Patna,Bihar,25.5941,85.1376,Middle Gangetic,1.95,18.1,26.6,57.3,LOW,Nominal Conditions
+REC-BHO-039,2026-11-08,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.03,19.1,24.7,58.2,LOW,Nominal Conditions
+REC-BHU-039,2026-11-08,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.82,36.1,22.5,61.7,MODERATE,Active Pre-Monsoon
+REC-PUR-039,2026-11-08,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.07,44.6,22.2,62.2,MODERATE,Active Pre-Monsoon
+REC-GUW-039,2026-11-08,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.56,20.2,27.0,59.5,LOW,Nominal Conditions
+REC-SHI-039,2026-11-08,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.6,23.4,26.6,62.8,LOW,Nominal Conditions
+REC-SHI-039,2026-11-08,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.54,25.5,30.7,56.5,LOW,Nominal Conditions
+REC-SRI-039,2026-11-08,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.22,15.9,32.4,53.9,LOW,Nominal Conditions
+REC-DEH-039,2026-11-08,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.73,19.1,30.2,58.5,LOW,Nominal Conditions
+REC-KOC-039,2026-11-08,Kochi,Kerala,9.9312,76.2673,Malabar Coast,7.89,29.8,18.0,69.6,LOW,Nominal Conditions
+REC-THI-039,2026-11-08,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.58,26.6,18.0,64.7,LOW,Nominal Conditions
+REC-VIS-039,2026-11-08,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.87,38.3,20.8,59.5,MODERATE,Active Pre-Monsoon
+REC-RAN-039,2026-11-08,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.37,18.1,24.8,58.6,LOW,Nominal Conditions
+REC-RAI-039,2026-11-08,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.2,19.1,23.2,59.0,LOW,Nominal Conditions
+REC-CHA-039,2026-11-08,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.78,21.3,30.5,55.5,LOW,Nominal Conditions
+REC-PAN-039,2026-11-08,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.38,31.9,19.6,68.2,LOW,Nominal Conditions
+REC-GAN-039,2026-11-08,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.58,17.0,28.0,60.7,LOW,Nominal Conditions
+REC-AGA-039,2026-11-08,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.73,19.1,25.2,60.5,LOW,Nominal Conditions
+REC-POR-039,2026-11-08,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.26,40.4,18.2,65.6,MODERATE,Active Pre-Monsoon
+REC-MUM-040,2026-11-09,Mumbai,Maharashtra,19.076,72.8777,Western Coastal,6.34,28.9,22.3,65.6,LOW,Nominal Conditions
+REC-PUN-040,2026-11-09,Pune,Maharashtra,18.5204,73.8567,Deccan Plateau,1.27,18.2,21.9,58.1,LOW,Nominal Conditions
+REC-NAG-040,2026-11-09,Nagpur,Maharashtra,21.1458,79.0882,Central India,1.94,16.7,23.9,58.3,LOW,Nominal Conditions
+REC-NEW-040,2026-11-09,New Delhi,Delhi,28.6139,77.209,Northern Plains,1.37,22.3,29.7,55.2,LOW,Nominal Conditions
+REC-KOL-040,2026-11-09,Kolkata,West Bengal,22.5726,88.3639,Eastern Gangetic,3.17,26.4,25.0,59.8,LOW,Nominal Conditions
+REC-CHE-040,2026-11-09,Chennai,Tamil Nadu,13.0827,80.2707,Coromandel Coast,3.7,32.4,19.0,62.9,MODERATE,Active Pre-Monsoon
+REC-BEN-040,2026-11-09,Bengaluru,Karnataka,12.9716,77.5946,South Interior,1.71,20.3,18.9,60.0,LOW,Nominal Conditions
+REC-HYD-040,2026-11-09,Hyderabad,Telangana,17.385,78.4867,Deccan Plateau,1.48,19.3,21.2,58.7,LOW,Nominal Conditions
+REC-AHM-040,2026-11-09,Ahmedabad,Gujarat,23.0225,72.5714,Western Arid,1.41,24.3,25.4,57.0,LOW,Nominal Conditions
+REC-JAI-040,2026-11-09,Jaipur,Rajasthan,26.9124,75.7873,Thar Semi-Arid,1.06,21.3,28.4,55.2,LOW,Nominal Conditions
+REC-LUC-040,2026-11-09,Lucknow,Uttar Pradesh,26.8467,80.9462,Gangetic Plain,1.76,15.2,28.4,56.3,LOW,Nominal Conditions
+REC-PAT-040,2026-11-09,Patna,Bihar,25.5941,85.1376,Middle Gangetic,2.03,17.2,27.4,57.1,LOW,Nominal Conditions
+REC-BHO-040,2026-11-09,Bhopal,Madhya Pradesh,23.2599,77.4126,Central India,2.11,18.2,25.5,58.0,LOW,Nominal Conditions
+REC-BHU-040,2026-11-09,Bhubaneswar,Odisha,20.2961,85.8245,Eastern Coast,3.97,34.5,23.2,61.7,MODERATE,Active Pre-Monsoon
+REC-PUR-040,2026-11-09,Puri,Odisha,19.8135,85.8312,Bay of Bengal Coast,4.23,42.6,22.9,62.2,MODERATE,Active Pre-Monsoon
+REC-GUW-040,2026-11-09,Guwahati,Assam,26.1445,91.7362,Brahmaputra Valley,3.7,19.3,27.8,59.4,LOW,Nominal Conditions
+REC-SHI-040,2026-11-09,Shillong,Meghalaya,25.5788,91.8933,Northeast Hills,5.82,22.3,27.4,62.8,LOW,Nominal Conditions
+REC-SHI-040,2026-11-09,Shimla,Himachal Pradesh,31.1048,77.1734,Western Himalayas,2.64,24.3,31.3,56.4,LOW,Nominal Conditions
+REC-SRI-040,2026-11-09,Srinagar,Jammu & Kashmir,34.0837,74.7973,Kashmir Valley,1.27,15.2,32.8,53.8,LOW,Nominal Conditions
+REC-DEH-040,2026-11-09,Dehradun,Uttarakhand,30.3165,78.0322,Sub-Himalayan,3.88,18.2,30.8,58.5,LOW,Nominal Conditions
+REC-KOC-040,2026-11-09,Kochi,Kerala,9.9312,76.2673,Malabar Coast,8.19,28.4,18.1,70.0,LOW,Nominal Conditions
+REC-THI-040,2026-11-09,Thiruvananthapuram,Kerala,8.5241,76.9366,South Coast,4.76,25.3,18.0,64.9,LOW,Nominal Conditions
+REC-VIS-040,2026-11-09,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,Eastern Littoral,1.94,36.5,21.4,59.3,MODERATE,Active Pre-Monsoon
+REC-RAN-040,2026-11-09,Ranchi,Jharkhand,23.3441,85.3096,Chota Nagpur,2.47,17.2,25.6,58.5,LOW,Nominal Conditions
+REC-RAI-040,2026-11-09,Raipur,Chhattisgarh,21.2514,81.6296,Mahanadi Basin,2.29,18.2,24.0,58.8,LOW,Nominal Conditions
+REC-CHA-040,2026-11-09,Chandigarh,Punjab,30.7333,76.7794,Northwest Plains,1.85,20.3,31.1,55.3,LOW,Nominal Conditions
+REC-PAN-040,2026-11-09,Panaji,Goa,15.4909,73.8278,Konkan Coast,7.67,30.4,20.1,68.5,LOW,Nominal Conditions
+REC-GAN-040,2026-11-09,Gangtok,Sikkim,27.3389,88.6065,Eastern Himalayas,4.76,16.2,28.7,60.7,LOW,Nominal Conditions
+REC-AGA-040,2026-11-09,Agartala,Tripura,23.8315,91.2868,Northeast Plain,3.88,18.2,26.0,60.4,LOW,Nominal Conditions
+REC-POR-040,2026-11-09,Port Blair,Andaman & Nicobar,11.6234,92.7265,Island Marine,5.46,38.5,18.5,65.8,MODERATE,Active Pre-Monsoon
